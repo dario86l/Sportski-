@@ -1,65 +1,323 @@
 #EXTM3U
-#EXTINF:-1 ,HRT 1 720p
-http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
-#EXTINF:-1 ,HRT 2 720p
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1 ,HRT 3 720p
-http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
-#EXTINF:-1 ,HRT 4 720p
-http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
-#EXTINF:-1 ,RTL TV 720p
-http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,(BIH) NOVA BH HD
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/9608
-#EXTINF:-1,(BIH) NOVA BH
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/9607
-#EXTINF:-1,(SRB) NOVA S
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/4339
-#EXTINF:-1,(HR) NOVA TV HD
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10693
-#EXTINF:-1,(HR) NOVA TV
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10692
-#EXTINF:-1,(HR) DOMA TV HD
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10691
-#EXTINF:-1,(HR) DOMA TV
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10690
-#EXTINF:-1,(EXYU) ARENA SPORT 1 BIH
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10211
-#EXTINF:-1,(EXYU) ARENA SPORT 1 HD (SRB)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10210
-#EXTINF:-1,(EXYU) ARENA SPORT 2 HD (SRB)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10209
-#EXTINF:-1,(EXYU) ARENA SPORT 3 HD (SRB)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10208
-#EXTINF:-1,(EXYU) ARENA SPORT 4 HD (SRB)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10207
-#EXTINF:-1,(EXYU) ARENA SPORT 1 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10206
-#EXTINF:-1,(EXYU) ARENA SPORT 2 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10205
-#EXTINF:-1,(EXYU) ARENA SPORT 3 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10204
-#EXTINF:-1,(EXYU) ARENA SPORT 4 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10203
-#EXTINF:-1,(EXYU) ARENA SPORT 5 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10202
-#EXTINF:-1,(EXYU) ARENA SPORT 10 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/240020
-#EXTINF:-1,(EXYU) ARENA SPORT 9 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/240019
-#EXTINF:-1,(EXYU) ARENA SPORT 8 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/240018
-#EXTINF:-1,(EXYU) ARENA SPORT 7 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/240017
-#EXTINF:-1,(EXYU) ARENA SPORT 6 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/240016
-#EXTINF:-1,(EXYU) HNTV (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10230
-#EXTINF:-1,(EXYU) SPORTSKA TV (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10229
-#EXTINF:-1,(EXYU) MOJA TV (BH)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10228
-#EXTINF:-1,(HR) HRT 2
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10700
-#EXTINF:-1,(HR) HRT 2 HD
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10699
+#EXTINF:-1 tvg-id="" tvg-name="== HRVATSKA ==" tvg-logo="http://titaniptv.com/epg/logo/Hrvatska.png" group-title="HRVATSKA / CROATIA",== HRVATSKA ==
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/4721.ts
+#EXTINF:-1 tvg-id="2903227873" tvg-name="HRT 1 HD" tvg-logo="http://logo.smart-iptvpro.info/100.hr.png" group-title="HRVATSKA / CROATIA",HRT 1 HD
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/7873.ts
+#EXTINF:-1 tvg-id="29032215298" tvg-name="HRT 1 HD (L2)" tvg-logo="http://logo.smart-iptvpro.info/100.hr.png" group-title="HRVATSKA / CROATIA",HRT 1 HD (L2)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/15298.ts
+#EXTINF:-1 tvg-id="29032221640" tvg-name="HRT 1 HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/100.hr.png" group-title="HRVATSKA / CROATIA",HRT 1 HD (hevc)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/21640.ts
+#EXTINF:-1 tvg-id="290322103" tvg-name="HRT 2" tvg-logo="https://twobrothers1.com:8443/images/d66f3ed717b48fe9573d77d086f93242.png" group-title="HRVATSKA / CROATIA",HRT 2
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/103.ts
+#EXTINF:-1 tvg-id="290322106" tvg-name="HRT 2 HD" tvg-logo="http://logo.smart-iptvpro.info/101.hr.png" group-title="HRVATSKA / CROATIA",HRT 2 HD
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/106.ts
+#EXTINF:-1 tvg-id="29032210931" tvg-name="HRT 2 HD (L2)" tvg-logo="http://logo.smart-iptvpro.info/101.hr.png" group-title="HRVATSKA / CROATIA",HRT 2 HD (L2)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/10931.ts
+#EXTINF:-1 tvg-id="290322114" tvg-name="HRT 2 HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/101.hr.png" group-title="HRVATSKA / CROATIA",HRT 2 HD (hevc)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/114.ts
+#EXTINF:-1 tvg-id="2903225800" tvg-name="HRT 3 HD" tvg-logo="http://logo.smart-iptvpro.info/102.hr.png" group-title="HRVATSKA / CROATIA",HRT 3 HD
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/5800.ts
+#EXTINF:-1 tvg-id="29032221642" tvg-name="HRT 3 HD (hevc)" tvg-logo="https://twobrothers1.com:8443/images/bb22402b402d0944146db818c2d87da2.png" group-title="HRVATSKA / CROATIA",HRT 3 HD (hevc)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/21642.ts
+#EXTINF:-1 tvg-id="29032213739" tvg-name="HRT 4 HD" tvg-logo="http://logo.smart-iptvpro.info/103.hr.png" group-title="HRVATSKA / CROATIA",HRT 4 HD
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/13739.ts
+#EXTINF:-1 tvg-id="29032221643" tvg-name="HRT 4 HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/103.hr.png" group-title="HRVATSKA / CROATIA",HRT 4 HD (hevc)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/21643.ts
+#EXTINF:-1 tvg-id="29032210695" tvg-name="HRT INT." tvg-logo="https://twobrothers1.com:8443/images/c3b6ead3250b7da6ce36c2c5f1d3c59f.png" group-title="HRVATSKA / CROATIA",HRT INT.
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/10695.ts
+#EXTINF:-1 tvg-id="29032289" tvg-name="N1 HR" tvg-logo="http://logo.smart-iptvpro.info/104.hr.png" group-title="HRVATSKA / CROATIA",N1 HR
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/89.ts
+#EXTINF:-1 tvg-id="29032290" tvg-name="N1 HR L2" tvg-logo="https://twobrothers1.com:8443/images/1114e7a182e2606d21279ac7946b6920.png" group-title="HRVATSKA / CROATIA",N1 HR L2
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/90.ts
+#EXTINF:-1 tvg-id="29032280" tvg-name="NOVA TV" tvg-logo="https://twobrothers1.com:8443/images/add40080f55a2c74cca0a6b09e7b469e.png" group-title="HRVATSKA / CROATIA",NOVA TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/80.ts
+#EXTINF:-1 tvg-id="29032281" tvg-name="NOVA TV HD" tvg-logo="https://twobrothers1.com:8443/images/add40080f55a2c74cca0a6b09e7b469e.png" group-title="HRVATSKA / CROATIA",NOVA TV HD
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/81.ts
+#EXTINF:-1 tvg-id="29032282" tvg-name="NOVA TV HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/105.hr.png" group-title="HRVATSKA / CROATIA",NOVA TV HD (hevc)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/82.ts
+#EXTINF:-1 tvg-id="29032231107" tvg-name="NOVA WORLD" tvg-logo="https://twobrothers1.com:8443/images/227c5cdca18ac6c5b607ec22b1e44e28.png" group-title="HRVATSKA / CROATIA",NOVA WORLD
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/31107.ts
+#EXTINF:-1 tvg-id="29032211" tvg-name="NOVA CINEMA" tvg-logo="https://twobrothers1.com:8443/images/add40080f55a2c74cca0a6b09e7b469e.png" group-title="HRVATSKA / CROATIA",NOVA CINEMA
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/11.ts
+#EXTINF:-1 tvg-id="29032212" tvg-name="NOVA FAMILY" tvg-logo="https://twobrothers1.com:8443/images/add40080f55a2c74cca0a6b09e7b469e.png" group-title="HRVATSKA / CROATIA",NOVA FAMILY
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/12.ts
+#EXTINF:-1 tvg-id="2903226023" tvg-name="DOMA TV" tvg-logo="https://twobrothers1.com:8443/images/d43bf357bbd538b339a55c19eecd64db.png" group-title="HRVATSKA / CROATIA",DOMA TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/6023.ts
+#EXTINF:-1 tvg-id="2903225481" tvg-name="DOMA TV HD" tvg-logo="https://twobrothers1.com:8443/images/d43bf357bbd538b339a55c19eecd64db.png" group-title="HRVATSKA / CROATIA",DOMA TV HD
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/5481.ts
+#EXTINF:-1 tvg-id="29032222263" tvg-name="DOMA TV (hevc)" tvg-logo="http://logo.smart-iptvpro.info/106.hr.png" group-title="HRVATSKA / CROATIA",DOMA TV (hevc)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/22263.ts
+#EXTINF:-1 tvg-id="2903225482" tvg-name="RTL" tvg-logo="https://twobrothers1.com:8443/images/50c4dd2a1f72126bbc331f9995da11df.png" group-title="HRVATSKA / CROATIA",RTL
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/5482.ts
+#EXTINF:-1 tvg-id="2903227040" tvg-name="RTL HD" tvg-logo="https://twobrothers1.com:8443/images/50c4dd2a1f72126bbc331f9995da11df.png" group-title="HRVATSKA / CROATIA",RTL HD
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/7040.ts
+#EXTINF:-1 tvg-id="2903225483" tvg-name="RTL 2" tvg-logo="https://twobrothers1.com:8443/images/b1a874b3e9aefba9968dcd412f06b4af.png" group-title="HRVATSKA / CROATIA",RTL 2
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/5483.ts
+#EXTINF:-1 tvg-id="2903225484" tvg-name="RTL CRIME" tvg-logo="https://twobrothers1.com:8443/images/eb7470653150aada96a2fd37a596b66f.png" group-title="HRVATSKA / CROATIA",RTL CRIME
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/5484.ts
+#EXTINF:-1 tvg-id="2903225798" tvg-name="RTL LIVING" tvg-logo="https://twobrothers1.com:8443/images/000726002f1df6239043f31c1315e220.png" group-title="HRVATSKA / CROATIA",RTL LIVING
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/5798.ts
+#EXTINF:-1 tvg-id="2903225465" tvg-name="RTL PASSION" tvg-logo="https://twobrothers1.com:8443/images/41a545f26b6964b4645f843675470e05.png" group-title="HRVATSKA / CROATIA",RTL PASSION
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/5465.ts
+#EXTINF:-1 tvg-id="29032221620" tvg-name="RTL ADRIA" tvg-logo="https://twobrothers1.com:8443/images/8dc98da90374651fb8c436dfcad78a94.png" group-title="HRVATSKA / CROATIA",RTL ADRIA
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/21620.ts
+#EXTINF:-1 tvg-id="29032210" tvg-name="RTL ADRIA HD" tvg-logo="https://twobrothers1.com:8443/images/8dc98da90374651fb8c436dfcad78a94.png" group-title="HRVATSKA / CROATIA",RTL ADRIA HD
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/10.ts
+#EXTINF:-1 tvg-id="29032221621" tvg-name="RTL CROATIA WORLD" tvg-logo="https://twobrothers1.com:8443/images/0ed5852e92c0c4b982e087c0b215138a.png" group-title="HRVATSKA / CROATIA",RTL CROATIA WORLD
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/21621.ts
+#EXTINF:-1 tvg-id="29032222262" tvg-name="RTL KOCKICA HD (hevc)" tvg-logo="https://twobrothers1.com:8443/images/aff4311ed0ff43100061a6ce8f8ab2d8.png" group-title="HRVATSKA / CROATIA",RTL KOCKICA HD (hevc)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/22262.ts
+#EXTINF:-1 tvg-id="29032222126" tvg-name="MREZA TV ZAGREB" tvg-logo="https://twobrothers1.com:8443/images/f486341e9354587cce6105c7f96484bd.png" group-title="HRVATSKA / CROATIA",MREZA TV ZAGREB
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/22126.ts
+#EXTINF:-1 tvg-id="29032222127" tvg-name="TV DALMACIJA" tvg-logo="https://dalmacija.tv/wp-content/uploads/2021/01/logo-web-bw.png" group-title="HRVATSKA / CROATIA",TV DALMACIJA
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/22127.ts
+#EXTINF:-1 tvg-id="2903225486" tvg-name="Z1" tvg-logo="https://twobrothers1.com:8443/images/090fd49032465d810fedddcae3879ab2.png" group-title="HRVATSKA / CROATIA",Z1
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/5486.ts
+#EXTINF:-1 tvg-id="2903225627" tvg-name="OSJECKA TV" tvg-logo="http://logo.smart-iptvpro.info/117.hr.png" group-title="HRVATSKA / CROATIA",OSJECKA TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/5627.ts
+#EXTINF:-1 tvg-id="29032226433" tvg-name="SBTV" tvg-logo="https://twobrothers1.com:8443/images/a900f598f3c6989a75bfb38509866018.png" group-title="HRVATSKA / CROATIA",SBTV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/26433.ts
+#EXTINF:-1 tvg-id="2903225801" tvg-name="SLAVONSKA TV" tvg-logo="https://twobrothers1.com:8443/images/4ae6cc35ab7ee37b5c7970e0fbcc9725.png" group-title="HRVATSKA / CROATIA",SLAVONSKA TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/5801.ts
+#EXTINF:-1 tvg-id="2903226010" tvg-name="PLAVA VINKOVACKA TV" tvg-logo="https://twobrothers1.com:8443/images/7e9ae791f06115261808680414d78742.png" group-title="HRVATSKA / CROATIA",PLAVA VINKOVACKA TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/6010.ts
+#EXTINF:-1 tvg-id="2903226011" tvg-name="PLAVA TELEVIZIJA" tvg-logo="https://twobrothers1.com:8443/images/58b1d4fea987dac69094024a072bb32e.png" group-title="HRVATSKA / CROATIA",PLAVA TELEVIZIJA
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/6011.ts
+#EXTINF:-1 tvg-id="29032221622" tvg-name="VTV" tvg-logo="https://twobrothers1.com:8443/images/0fc4529e5070c09542860d80ac5091fc.png" group-title="HRVATSKA / CROATIA",VTV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/21622.ts
+#EXTINF:-1 tvg-id="2903225819" tvg-name="RTV BANOVINA" tvg-logo="http://logo.smart-iptvpro.info/121.hr.png" group-title="HRVATSKA / CROATIA",RTV BANOVINA
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/5819.ts
+#EXTINF:-1 tvg-id="29032214" tvg-name="PRIGORSKA TV" tvg-logo="https://twobrothers1.com:8443/images/84995f39eadfc69cc72c69fdc451ddad.png" group-title="HRVATSKA / CROATIA",PRIGORSKA TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14.ts
+#EXTINF:-1 tvg-id="29032219744" tvg-name="KLASIK TV" tvg-logo="https://twobrothers1.com:8443/images/1fbedbb50ae1327d23faf6189aa51492.png" group-title="HRVATSKA / CROATIA",KLASIK TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/19744.ts
+#EXTINF:-1 tvg-id="29032221623" tvg-name="ZDRAVA TV" tvg-logo="http://logo.smart-iptvpro.info/123.hr.png" group-title="HRVATSKA / CROATIA",ZDRAVA TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/21623.ts
+#EXTINF:-1 tvg-id="29032210899" tvg-name="POLJOPRIVREDNA TV" tvg-logo="https://twobrothers1.com:8443/images/257a0032ef1e392faebfb302b882c9c0.png" group-title="HRVATSKA / CROATIA",POLJOPRIVREDNA TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/10899.ts
+#EXTINF:-1 tvg-id="29032232458" tvg-name="Diadora TV" tvg-logo="https://twobrothers1.com:8443/images/35ebe4173da8bca005411bbcd09d8c22.png" group-title="HRVATSKA / CROATIA",Diadora TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/32458.ts
+#EXTINF:-1 tvg-id="2903227877" tvg-name="LAUDATO TV" tvg-logo="https://twobrothers1.com:8443/images/3e06f2778d41ec66cf357f7389a39d1a.png" group-title="HRVATSKA / CROATIA",LAUDATO TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/7877.ts
+#EXTINF:-1 tvg-id="29032219885" tvg-name="OTV" tvg-logo="http://logo.smart-iptvpro.info/126.hr.png" group-title="HRVATSKA / CROATIA",OTV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/19885.ts
+#EXTINF:-1 tvg-id="2903227883" tvg-name="JADRAN TV" tvg-logo="https://twobrothers1.com:8443/images/e2b880b47069437df17cacda6a78fa70.png" group-title="HRVATSKA / CROATIA",JADRAN TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/7883.ts
+#EXTINF:-1 tvg-id="29032221880" tvg-name="TV NOVA PULA HD" tvg-logo="https://twobrothers1.com:8443/images/87b97bb28bc6e91cc7f120d349907060.png" group-title="HRVATSKA / CROATIA",TV NOVA PULA HD
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/21880.ts
+#EXTINF:-1 tvg-id="2903227884" tvg-name="KANAL RI" tvg-logo="" group-title="HRVATSKA / CROATIA",KANAL RI
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/7884.ts
+#EXTINF:-1 tvg-id="29032226617" tvg-name="TV SIBENIK" tvg-logo="https://twobrothers1.com:8443/images/15003d3cba174e97b38b80dbe63a20ca.png" group-title="HRVATSKA / CROATIA",TV SIBENIK
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/26617.ts
+#EXTINF:-1 tvg-id="29032220216" tvg-name="TV DUBROVNIK" tvg-logo="https://twobrothers1.com:8443/images/e730ce8b599e2d3dcef74ec6a9a69620.png" group-title="HRVATSKA / CROATIA",TV DUBROVNIK
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/20216.ts
+#EXTINF:-1 tvg-id="2903224722" tvg-name="LIBERTAS TV" tvg-logo="http://logo.smart-iptvpro.info/131.hr.png" group-title="HRVATSKA / CROATIA",LIBERTAS TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/4722.ts
+#EXTINF:-1 tvg-id="29032221183" tvg-name="AURORA TV" tvg-logo="http://logo.smart-iptvpro.info/132.hr.png" group-title="HRVATSKA / CROATIA",AURORA TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/21183.ts
+#EXTINF:-1 tvg-id="29032220709" tvg-name="TREND TV" tvg-logo="http://logo.smart-iptvpro.info/133.hr.png" group-title="HRVATSKA / CROATIA",TREND TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/20709.ts
+#EXTINF:-1 tvg-id="29032227375" tvg-name="CROTV HD" tvg-logo="https://scontent.fsin8-1.fna.fbcdn.net/v/t1.6435-9/121903779_1270499616660954_2124849590922705203_n.png?_nc_cat=111&ccb=1-3&_nc_sid=973b4a&_nc_ohc=gKMwp5JF_64AX86ZAlD&_nc_ht=scontent.fsin8-1.fna&oh=7ee620be048a947b3e9c6ac6c829c8b9&oe=60AFD175" group-title="HRVATSKA / CROATIA",CROTV HD
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/27375.ts
+#EXTINF:-1 tvg-id="29032232656" tvg-name="UNA TV HR" tvg-logo="https://twobrothers1.com:8443/images/b24a161d96bb59286de89ff4f5ec7f06.jpg" group-title="HRVATSKA / CROATIA",UNA TV HR
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/32656.ts
+#EXTINF:-1 tvg-id="29032234032" tvg-name="TV ZAPAD" tvg-logo="https://twobrothers1.com:8443/images/cca7ba29e363f66d0862c08dbf762d11.png" group-title="HRVATSKA / CROATIA",TV ZAPAD
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/34032.ts
+#EXTINF:-1 tvg-id="" tvg-name="== SPORT ==" tvg-logo="" group-title="SPORT",== SPORT ==
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/5077.ts
+#EXTINF:-1 tvg-id="29032235539" tvg-name="MAXSport 1 (HR) test" tvg-logo="https://twobrothers1.com:8443/images/06f08ae24a07774b54c9efef6998a3bc.jpg" group-title="SPORT",MAXSport 1 (HR) test
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/35539.ts
+#EXTINF:-1 tvg-id="29032235584" tvg-name="MAXSport 2 (HR) test" tvg-logo="https://twobrothers1.com:8443/images/badac516822567b6228d86be2cfccdd2.jpg" group-title="SPORT",MAXSport 2 (HR) test
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/35584.ts
+#EXTINF:-1 tvg-id="29032214724" tvg-name="ARENA SPORT 1 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/d688f5acd73482c8a37a6f2539ab59f3.png" group-title="SPORT",ARENA SPORT 1 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14724.ts
+#EXTINF:-1 tvg-id="29032214725" tvg-name="ARENA SPORT 2 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/3a3c76ee1ecef4276acca60dc9836737.png" group-title="SPORT",ARENA SPORT 2 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14725.ts
+#EXTINF:-1 tvg-id="29032214726" tvg-name="ARENA SPORT 3 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/601505c4e7e80142a837b499a45b6288.png" group-title="SPORT",ARENA SPORT 3 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14726.ts
+#EXTINF:-1 tvg-id="29032214727" tvg-name="ARENA SPORT 4 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/0238bb3eec318cac95b91fd90ad1f277.png" group-title="SPORT",ARENA SPORT 4 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14727.ts
+#EXTINF:-1 tvg-id="29032214728" tvg-name="ARENA SPORT 5 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/6ee09d41f44136d27e25cc5202d8e2f7.png" group-title="SPORT",ARENA SPORT 5 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14728.ts
+#EXTINF:-1 tvg-id="29032214729" tvg-name="ARENA SPORT 6 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/6c6741dd2f52bcc1fe87062613766374.png" group-title="SPORT",ARENA SPORT 6 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14729.ts
+#EXTINF:-1 tvg-id="29032226887" tvg-name="ARENA SPORT 7 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/ea2ae7f73c7fc1286572cd87fa2343d1.png" group-title="SPORT",ARENA SPORT 7 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/26887.ts
+#EXTINF:-1 tvg-id="29032226888" tvg-name="ARENA SPORT 8 HD (HR)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="SPORT",ARENA SPORT 8 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/26888.ts
+#EXTINF:-1 tvg-id="29032226889" tvg-name="ARENA SPORT 9 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/ea2ae7f73c7fc1286572cd87fa2343d1.png" group-title="SPORT",ARENA SPORT 9 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/26889.ts
+#EXTINF:-1 tvg-id="29032226890" tvg-name="ARENA SPORT 10 HD (HR)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="SPORT",ARENA SPORT 10 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/26890.ts
+#EXTINF:-1 tvg-id="29032214735" tvg-name="ARENA SPORT 1 (SR)" tvg-logo="https://twobrothers1.com:8443/images/63575056df3a388ee7aa4da8054ba2fc.jpg" group-title="SPORT",ARENA SPORT 1 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14735.ts
+#EXTINF:-1 tvg-id="29032214736" tvg-name="ARENA SPORT 2 (SR)" tvg-logo="https://twobrothers1.com:8443/images/55c60ec55f1690e0048912a6d28cea6f.jpg" group-title="SPORT",ARENA SPORT 2 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14736.ts
+#EXTINF:-1 tvg-id="29032214812" tvg-name="ARENA SPORT 3 (SR)" tvg-logo="https://twobrothers1.com:8443/images/e1bf99dacb6b735bea4383ac66805377.jpg" group-title="SPORT",ARENA SPORT 3 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14812.ts
+#EXTINF:-1 tvg-id="29032214734" tvg-name="ARENA SPORT 4 (SR)" tvg-logo="http://logo.smart-iptvpro.info/212.sr.jpg" group-title="SPORT",ARENA SPORT 4 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14734.ts
+#EXTINF:-1 tvg-id="29032214737" tvg-name="ARENA SPORT 5 (SR)" tvg-logo="https://twobrothers1.com:8443/images/e7ed553ec0c44728e2be6c3d5c7b44ab.jpg" group-title="SPORT",ARENA SPORT 5 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14737.ts
+#EXTINF:-1 tvg-id="29032232168" tvg-name="ARENA SPORT 1 Premium (SR)" tvg-logo="https://twobrothers1.com:8443/images/17c9722ec1eabd743979fcfa26f3d009.jpg" group-title="SPORT",ARENA SPORT 1 Premium (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/32168.ts
+#EXTINF:-1 tvg-id="29032232169" tvg-name="ARENA SPORT 2 Premium (SR)" tvg-logo="https://twobrothers1.com:8443/images/9a5f6620aabf94c4062d2e5941c46ccd.jpg" group-title="SPORT",ARENA SPORT 2 Premium (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/32169.ts
+#EXTINF:-1 tvg-id="29032232170" tvg-name="ARENA SPORT 3 Premium (SR)" tvg-logo="https://twobrothers1.com:8443/images/8d419a44abe6caf1e19345f0fee9e9d9.jpg" group-title="SPORT",ARENA SPORT 3 Premium (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/32170.ts
+#EXTINF:-1 tvg-id="29032226967" tvg-name="ARENA SPORT 1 HD (SR)" tvg-logo="http://logos-logo.ddns.net/logos/arenasport1-drukahehip.png" group-title="SPORT",ARENA SPORT 1 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/26967.ts
+#EXTINF:-1 tvg-id="29032226968" tvg-name="ARENA SPORT 2 HD (SR)" tvg-logo="http://logos-logo.ddns.net/logos/arenasport2-drukahehip.png" group-title="SPORT",ARENA SPORT 2 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/26968.ts
+#EXTINF:-1 tvg-id="29032226969" tvg-name="ARENA SPORT 3 HD (SR)" tvg-logo="http://logos-logo.ddns.net/logos/arenasport3-drukahehip.png" group-title="SPORT",ARENA SPORT 3 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/26969.ts
+#EXTINF:-1 tvg-id="29032226970" tvg-name="ARENA SPORT 4 HD (SR)" tvg-logo="http://logos-logo.ddns.net/logos/arenasport4-drukahehip.png" group-title="SPORT",ARENA SPORT 4 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/26970.ts
+#EXTINF:-1 tvg-id="29032233071" tvg-name="ARENA SPORT 5 HD (SR)" tvg-logo="https://twobrothers1.com:8443/images/88d83074076ebff8564ff7daf5acd24b.png" group-title="SPORT",ARENA SPORT 5 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/33071.ts
+#EXTINF:-1 tvg-id="29032231937" tvg-name="ARENA SPORT 6 HD (SR)" tvg-logo="" group-title="SPORT",ARENA SPORT 6 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/31937.ts
+#EXTINF:-1 tvg-id="29032231938" tvg-name="ARENA SPORT 7 HD (SR) " tvg-logo="" group-title="SPORT",ARENA SPORT 7 HD (SR) 
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/31938.ts
+#EXTINF:-1 tvg-id="29032231939" tvg-name="ARENA SPORT 8 HD (SR) " tvg-logo="" group-title="SPORT",ARENA SPORT 8 HD (SR) 
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/31939.ts
+#EXTINF:-1 tvg-id="29032231940" tvg-name="ARENA SPORT 1x2 (SR)" tvg-logo="" group-title="SPORT",ARENA SPORT 1x2 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/31940.ts
+#EXTINF:-1 tvg-id="29032226892" tvg-name="ARENA FIGHT (SR)" tvg-logo="https://twobrothers1.com:8443/images/361ccf779217440f9c46e0e5689be6a8.png" group-title="SPORT",ARENA FIGHT (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/26892.ts
+#EXTINF:-1 tvg-id="29032223977" tvg-name="ARENA ESPORT" tvg-logo="https://twobrothers1.com:8443/images/e382d71808c3c4b73c71d6aa8bd377a0.jpg" group-title="SPORT",ARENA ESPORT
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/23977.ts
+#EXTINF:-1 tvg-id="29032223472" tvg-name="ARENA SPORT 1 (BIH)" tvg-logo="https://twobrothers1.com:8443/images/49bec9ee22b4c26cca440d28a67f1022.png" group-title="SPORT",ARENA SPORT 1 (BIH)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/23472.ts
+#EXTINF:-1 tvg-id="29032234362" tvg-name="ARENA SPORT 1 (SLO) TEST" tvg-logo="https://twobrothers1.com:8443/images/d688f5acd73482c8a37a6f2539ab59f3.png" group-title="SPORT",ARENA SPORT 1 (SLO) TEST
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/34362.ts
+#EXTINF:-1 tvg-id="29032234363" tvg-name="ARENA SPORT 2 (SLO) TEST" tvg-logo="https://twobrothers1.com:8443/images/3a3c76ee1ecef4276acca60dc9836737.png" group-title="SPORT",ARENA SPORT 2 (SLO) TEST
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/34363.ts
+#EXTINF:-1 tvg-id="29032220028" tvg-name="NOVA SPORT (SR)" tvg-logo="https://twobrothers1.com:8443/images/71f49add9d94042b8ef7247b0ac29461.png" group-title="SPORT",NOVA SPORT (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/20028.ts
+#EXTINF:-1 tvg-id="290322102" tvg-name="SPORT KLUB FIGHT" tvg-logo="https://twobrothers1.com:8443/images/538b82de5171870806b5fe1860318674.png" group-title="SPORT",SPORT KLUB FIGHT
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/102.ts
+#EXTINF:-1 tvg-id="29032259" tvg-name="SPORT KLUB GOLF" tvg-logo="http://logo.smart-iptvpro.info/247.hr.png" group-title="SPORT",SPORT KLUB GOLF
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/59.ts
+#EXTINF:-1 tvg-id="29032260" tvg-name="SPORT KLUB HD" tvg-logo="https://twobrothers1.com:8443/images/3692ae1165612be543ad37ebed0dd4fa.png" group-title="SPORT",SPORT KLUB HD
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/60.ts
+#EXTINF:-1 tvg-id="29032261" tvg-name="SPORT KLUB 1 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/0ea0a3d7dad1f17b17202a72f9a4f443.png" group-title="SPORT",SPORT KLUB 1 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/61.ts
+#EXTINF:-1 tvg-id="29032262" tvg-name="SPORT KLUB 2 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/87bb85473d22cedf6eb80b511dca5cf2.png" group-title="SPORT",SPORT KLUB 2 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/62.ts
+#EXTINF:-1 tvg-id="29032263" tvg-name="SPORT KLUB 3 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/3f339ed99ed394b7daff79fbbf3de578.png" group-title="SPORT",SPORT KLUB 3 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/63.ts
+#EXTINF:-1 tvg-id="29032264" tvg-name="SPORT KLUB 4 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/c0149eee335c3ce8ca009af10582a7b5.png" group-title="SPORT",SPORT KLUB 4 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/64.ts
+#EXTINF:-1 tvg-id="29032265" tvg-name="SPORT KLUB 5 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/f6f5ddc962ebf87e0e36a8b23ef6b6d3.png" group-title="SPORT",SPORT KLUB 5 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/65.ts
+#EXTINF:-1 tvg-id="29032266" tvg-name="SPORT KLUB 6 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/06da94bdedd6c6e5ceb06c00ea6dbcb5.png" group-title="SPORT",SPORT KLUB 6 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/66.ts
+#EXTINF:-1 tvg-id="29032235059" tvg-name="SK 4K (TEST) (hevc)" tvg-logo="https://twobrothers1.com:8443/images/84e9260587453ff7f9dd571c0a5b373c.png" group-title="SPORT",SK 4K (TEST) (hevc)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/35059.ts
+#EXTINF:-1 tvg-id="29032267" tvg-name="SPORT KLUB HD (SR)" tvg-logo="https://twobrothers1.com:8443/images/3692ae1165612be543ad37ebed0dd4fa.png" group-title="SPORT",SPORT KLUB HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/67.ts
+#EXTINF:-1 tvg-id="29032268" tvg-name="SPORT KLUB 1 HD (SR)" tvg-logo="https://twobrothers1.com:8443/images/0ea0a3d7dad1f17b17202a72f9a4f443.png" group-title="SPORT",SPORT KLUB 1 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/68.ts
+#EXTINF:-1 tvg-id="29032269" tvg-name="SPORT KLUB 2 HD (SR)" tvg-logo="https://twobrothers1.com:8443/images/87bb85473d22cedf6eb80b511dca5cf2.png" group-title="SPORT",SPORT KLUB 2 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/69.ts
+#EXTINF:-1 tvg-id="29032270" tvg-name="SPORT KLUB 3 HD (SR)" tvg-logo="https://twobrothers1.com:8443/images/3f339ed99ed394b7daff79fbbf3de578.png" group-title="SPORT",SPORT KLUB 3 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/70.ts
+#EXTINF:-1 tvg-id="29032271" tvg-name="SPORT KLUB 4 (SR)" tvg-logo="http://logo.smart-iptvpro.info/241.hr.png" group-title="SPORT",SPORT KLUB 4 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/71.ts
+#EXTINF:-1 tvg-id="29032272" tvg-name="SPORT KLUB 5 (SR)" tvg-logo="https://twobrothers1.com:8443/images/f6f5ddc962ebf87e0e36a8b23ef6b6d3.png" group-title="SPORT",SPORT KLUB 5 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/72.ts
+#EXTINF:-1 tvg-id="29032230721" tvg-name="SPORT KLUB 6 (SR)" tvg-logo="http://logo.smart-iptvpro.info/243.sr.png" group-title="SPORT",SPORT KLUB 6 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/30721.ts
+#EXTINF:-1 tvg-id="29032230445" tvg-name="SPORT KLUB 7 (SR)" tvg-logo="https://twobrothers1.com:8443/images/d87637c8861e311f851555f6e0d1af3c.png" group-title="SPORT",SPORT KLUB 7 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/30445.ts
+#EXTINF:-1 tvg-id="29032230722" tvg-name="SPORT KLUB 8 (SR)" tvg-logo="https://twobrothers1.com:8443/images/c1197bb649ce0a7f872ed9fe9547f145.png" group-title="SPORT",SPORT KLUB 8 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/30722.ts
+#EXTINF:-1 tvg-id="29032230723" tvg-name="SPORT KLUB 9 (SR)" tvg-logo="https://twobrothers1.com:8443/images/e9671f9a6a84a47526d8157c6a35e9ae.png" group-title="SPORT",SPORT KLUB 9 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/30723.ts
+#EXTINF:-1 tvg-id="29032230724" tvg-name="SPORT KLUB 10 (SR)" tvg-logo="https://twobrothers1.com:8443/images/1007df19c0691abbd3481f22cf3d406f.png" group-title="SPORT",SPORT KLUB 10 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/30724.ts
+#EXTINF:-1 tvg-id="29032234358" tvg-name="SPORT KLUB 1 (SLO) TEST" tvg-logo="https://twobrothers1.com:8443/images/0ea0a3d7dad1f17b17202a72f9a4f443.png" group-title="SPORT",SPORT KLUB 1 (SLO) TEST
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/34358.ts
+#EXTINF:-1 tvg-id="29032234359" tvg-name="SPORT KLUB 2 (SLO) TEST" tvg-logo="https://twobrothers1.com:8443/images/87bb85473d22cedf6eb80b511dca5cf2.png" group-title="SPORT",SPORT KLUB 2 (SLO) TEST
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/34359.ts
+#EXTINF:-1 tvg-id="29032234360" tvg-name="SPORT KLUB 3 (SLO) TEST" tvg-logo="https://twobrothers1.com:8443/images/3f339ed99ed394b7daff79fbbf3de578.png" group-title="SPORT",SPORT KLUB 3 (SLO) TEST
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/34360.ts
+#EXTINF:-1 tvg-id="29032214744" tvg-name="SPORTSKA TV (HR)" tvg-logo="http://logo.smart-iptvpro.info/248.hr.png" group-title="SPORT",SPORTSKA TV (HR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14744.ts
+#EXTINF:-1 tvg-id="29032213918" tvg-name="CITY TV" tvg-logo="https://twobrothers1.com:8443/images/ec39b1aad393e02aa972afa800bcfeb1.png" group-title="SPORT",CITY TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/13918.ts
+#EXTINF:-1 tvg-id="29032223498" tvg-name="GP1 (KREATOR TV)" tvg-logo="https://twobrothers1.com:8443/images/d3a633fa1fcc81394873b0ff4ef3bb5d.png" group-title="SPORT",GP1 (KREATOR TV)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/23498.ts
+#EXTINF:-1 tvg-id="29032214730" tvg-name="MOJA TV PREMIJER LIGA HD (BIH)" tvg-logo="" group-title="SPORT",MOJA TV PREMIJER LIGA HD (BIH)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14730.ts
+#EXTINF:-1 tvg-id="29032246" tvg-name="PARTIZAN TV" tvg-logo="https://twobrothers1.com:8443/images/441e0560a9d61cb786a874a849f2da21.png" group-title="SPORT",PARTIZAN TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/46.ts
+#EXTINF:-1 tvg-id="29032258" tvg-name="ZVEZDA TV" tvg-logo="https://twobrothers1.com:8443/images/1733c37697a6b581866f11a8e13b3ee4.png" group-title="SPORT",ZVEZDA TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/58.ts
+#EXTINF:-1 tvg-id="29032214792" tvg-name="EUROSPORT 1 HD (SR)" tvg-logo="https://twobrothers1.com:8443/images/d19b245ec140bef02e634f972aba9d07.png" group-title="SPORT",EUROSPORT 1 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14792.ts
+#EXTINF:-1 tvg-id="29032214794" tvg-name="EUROSPORT 2 HD (SR)" tvg-logo="https://twobrothers1.com:8443/images/dc981c6b97755ad064ddec93e862f367.png" group-title="SPORT",EUROSPORT 2 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14794.ts
+#EXTINF:-1 tvg-id="29032220205" tvg-name="SPORT TV 1 HD (SLO)" tvg-logo="http://logo.smart-iptvpro.info/52.slo.png" group-title="SPORT",SPORT TV 1 HD (SLO)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/20205.ts
+#EXTINF:-1 tvg-id="29032220206" tvg-name="SPORT TV 2 HD (SLO)" tvg-logo="http://logo.smart-iptvpro.info/53.slo.png" group-title="SPORT",SPORT TV 2 HD (SLO)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/20206.ts
+#EXTINF:-1 tvg-id="29032220207" tvg-name="SPORT TV 3 HD (SLO)" tvg-logo="https://twobrothers1.com:8443/images/5a3e712b079b372ea0fb1a56db6dbbcf.png" group-title="SPORT",SPORT TV 3 HD (SLO)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/20207.ts
+#EXTINF:-1 tvg-id="29032232848" tvg-name="Telekom Bundesliga 1 (DE)" tvg-logo="" group-title="SPORT",Telekom Bundesliga 1 (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/32848.ts
+#EXTINF:-1 tvg-id="29032232849" tvg-name="Telekom Bundesliga 2 (DE)" tvg-logo="" group-title="SPORT",Telekom Bundesliga 2 (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/32849.ts
+#EXTINF:-1 tvg-id="29032232850" tvg-name="Telekom Bundesliga 3 (DE)" tvg-logo="" group-title="SPORT",Telekom Bundesliga 3 (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/32850.ts
+#EXTINF:-1 tvg-id="29032232851" tvg-name="Telekom Bundesliga 4 (DE)" tvg-logo="" group-title="SPORT",Telekom Bundesliga 4 (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/32851.ts
+#EXTINF:-1 tvg-id="29032232852" tvg-name="Telekom Bundesliga 5 (DE)" tvg-logo="" group-title="SPORT",Telekom Bundesliga 5 (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/32852.ts
+#EXTINF:-1 tvg-id="29032224849" tvg-name="SPORT1 HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/55428ca65d529b1cf67623cb017c53af5de49d89.png" group-title="SPORT",SPORT1 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/24849.ts
+#EXTINF:-1 tvg-id="29032231111" tvg-name="Sport 1+ HD (DE)" tvg-logo="https://twobrothers1.com:8443/images/350c1d1d8c99bee296d85c138211730d.png" group-title="SPORT",Sport 1+ HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/31111.ts
+#EXTINF:-1 tvg-id="29032231110" tvg-name="SPORT DIGITAL (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/36207a17b0a5760b3977dcf130e53ce30f09c594.png" group-title="SPORT",SPORT DIGITAL (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/31110.ts
+#EXTINF:-1 tvg-id="29032213742" tvg-name="DAZN BAR 1 HD (DE)" tvg-logo="" group-title="SPORT",DAZN BAR 1 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/13742.ts
+#EXTINF:-1 tvg-id="29032213743" tvg-name="DAZN BAR 2 HD (DE)" tvg-logo="" group-title="SPORT",DAZN BAR 2 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/13743.ts
+#EXTINF:-1 tvg-id="29032214762" tvg-name="DAZN SPORT 1 HD (DE)" tvg-logo="" group-title="SPORT",DAZN SPORT 1 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14762.ts
+#EXTINF:-1 tvg-id="29032214761" tvg-name="DAZN SPORT 2 HD (DE)" tvg-logo="" group-title="SPORT",DAZN SPORT 2 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14761.ts
+#EXTINF:-1 tvg-id="29032214790" tvg-name="EUROSPORT 1 HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/18f200745e93b6c9848237acaaa008ea9f520f94.png" group-title="SPORT",EUROSPORT 1 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14790.ts
+#EXTINF:-1 tvg-id="29032214788" tvg-name="EUROSPORT 2 HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/fbc41d77249de69bb35febcff1bb74dd87a3b031.png" group-title="SPORT",EUROSPORT 2 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14788.ts
+#EXTINF:-1 tvg-id="29032214787" tvg-name="EUROSPORT 2 HD L2 (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/fbc41d77249de69bb35febcff1bb74dd87a3b031.png" group-title="SPORT",EUROSPORT 2 HD L2 (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14787.ts
+#EXTINF:-1 tvg-id="29032221115" tvg-name="AUTO MOTOR SPORT HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/8ffbb0a95849b6c7af04aeaea5c2e1680c6cb0ad.png" group-title="SPORT",AUTO MOTOR SPORT HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/21115.ts
+#EXTINF:-1 tvg-id="29032220759" tvg-name="FC BAYERN HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/55005eca27e8c20bfb41fa842181b50721ac156f.png" group-title="SPORT",FC BAYERN HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/20759.ts
+#EXTINF:-1 tvg-id="29032214763" tvg-name="ORF SPORT+ HD (AT)" tvg-logo="" group-title="SPORT",ORF SPORT+ HD (AT)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/14763.ts
+#EXTINF:-1 tvg-id="29032222900" tvg-name="MY SPORTS 1 HD (CH)" tvg-logo="https://twobrothers1.com:8443/images/59c7515f15663f70a72d58bfe2676dd0.png" group-title="SPORT",MY SPORTS 1 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/22900.ts
+#EXTINF:-1 tvg-id="29032222901" tvg-name="MY SPORTS 2 HD (CH)" tvg-logo="https://twobrothers1.com:8443/images/ebd89a9f5dba1a7e2c6d88ffbd46d279.png" group-title="SPORT",MY SPORTS 2 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/22901.ts
+#EXTINF:-1 tvg-id="29032223456" tvg-name="MY SPORTS 3 HD (CH)" tvg-logo="https://twobrothers1.com:8443/images/97acc3897ac4fe1e8a05e171aeec60f2.png" group-title="SPORT",MY SPORTS 3 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/23456.ts
+#EXTINF:-1 tvg-id="29032223457" tvg-name="MY SPORTS 4 HD (CH)" tvg-logo="https://twobrothers1.com:8443/images/64ad98afcb3b4b9acf493616af67f9c4.png" group-title="SPORT",MY SPORTS 4 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/23457.ts
+#EXTINF:-1 tvg-id="29032223458" tvg-name="MY SPORTS 5 HD (CH)" tvg-logo="https://twobrothers1.com:8443/images/14defc9bf87688b1f4b9f8800b72c53e.png" group-title="SPORT",MY SPORTS 5 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/23458.ts
+#EXTINF:-1 tvg-id="29032223459" tvg-name="MY SPORTS 6 HD (CH)" tvg-logo="https://twobrothers1.com:8443/images/7d0222424c69dba4fb0cef0e2ee25544.png" group-title="SPORT",MY SPORTS 6 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/23459.ts
+#EXTINF:-1 tvg-id="29032223460" tvg-name="MY SPORTS 7 HD (CH)" tvg-logo="https://twobrothers1.com:8443/images/60ad84c1a84cf20eebbbf26729ed8c92.png" group-title="SPORT",MY SPORTS 7 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/23460.ts
+#EXTINF:-1 tvg-id="29032223461" tvg-name="MY SPORTS 8 HD (CH)" tvg-logo="https://twobrothers1.com:8443/images/62de861715857e4d1dcc815274f47feb.png" group-title="SPORT",MY SPORTS 8 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/23461.ts
+#EXTINF:-1 tvg-id="29032219875" tvg-name="BLUE SPORT 1 HD (CH)" tvg-logo="" group-title="SPORT",BLUE SPORT 1 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/19875.ts
+#EXTINF:-1 tvg-id="29032220768" tvg-name="BLUE SPORT 2 HD (CH)" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/teleclubsport2.png" group-title="SPORT",BLUE SPORT 2 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/20768.ts
