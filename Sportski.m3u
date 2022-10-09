@@ -15,24 +15,6 @@ http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/180.ts
 http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/181.ts
 #EXTINF:-1 tvg-id="29032282" tvg-name="NOVA TV HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/105.hr.png" group-title="HRVATSKA / CROATIA",NOVA TV HD (hevc)
 http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/182.ts
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",ARENA SPORT 1 HD (HR)
-http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/17573.m3u8?checkedby
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",ARENA SPORT 2 HD (HR)
-http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/17572.m3u8?checkedby
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",ARENA SPORT 3 HD (HR)
-http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/17571.m3u8?checkedby
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",ARENA SPORT 4 HD (HR)
-http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/17570.m3u8?checkedby
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",ARENA SPORT 5 HD (HR)
-http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/17569.m3u8?checkedby
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",Arena 1
-http://ingrid.ltd:25461/live/Cc1/Cc1/38203.m3u8?checkedby
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",Arena 4
-http://ingrid.ltd:25461/live/Cc1/Cc1/38200.m3u8?checkedby
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",Arena 5
-http://ingrid.ltd:25461/live/Cc1/Cc1/38199.m3u8?checkedby
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",Arena 6
-http://ingrid.ltd:25461/live/Cc1/Cc1/38198.m3u8?checkedby
 #EXTINF:-1 tvg-id="" tvg-name="##### |EXYU| SPORT #####" tvg-logo=" http://logo.panel.cx/logo/FLAGS/flag_exyu.png" group-title="EU | EX-YU",##### |EXYU| SPORT #####
 http://procdn.xyz:80/8AD1579AA715/7D834094513C/271569
 #EXTINF:-1 tvg-id="novasport.rs" tvg-name="EXYU - NOVA SPORT" tvg-logo="http://logo.panel.cx/logo/EXYU/NOVA SPORT.png" group-title="EU | EX-YU",EXYU - NOVA SPORT
@@ -113,18 +95,6 @@ http://procdn.xyz:80/8AD1579AA715/7D834094513C/74875
 http://procdn.xyz:80/8AD1579AA715/7D834094513C/77989
 #EXTINF:-1 tvg-id="FightBox" tvg-name="EXYU - FIGHTBOX" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/FIGHTBOXHD-1.png" group-title="EU | EX-YU",EXYU - FIGHTBOX
 http://procdn.xyz:80/8AD1579AA715/7D834094513C/77990
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",Sport Klub 1 HD HR
-http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/17567.m3u8?checkedby
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",Sport Klub 2 HD HR
-http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/17566.m3u8?checkedby
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",Sport Klub 3 HD HR
-http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/17565.m3u8?checkedby
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",Sport Klub 4 HR
-http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/17564.m3u8?checkedby
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",Sport Klub 5 HR
-http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/17563.m3u8?checkedby
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",Sport Klub 6 HR
-http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/17562.m3u8?checkedby
 #EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Croatia(95)",HRT 2 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226140/02.m3u8?checkedby
 #EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Croatia(95)",HRT 2 [NO KODI]
