@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="== SPORT ==" tvg-logo="" group-title="SPORT",== SPORT ==
 http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/5077.ts
+#EXTINF:-1 tvg-id="" tvg-name="HR - MAX SPORT 1 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/CRO/MAXSPORT1.png" group-title="EU | EX-YU",HR - MAX SPORT 1 HD
+http://procdn.xyz:80/8AD1579AA715/7D834094513C/306959
+#EXTINF:-1 tvg-id="" tvg-name="HR - MAX SPORT 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/CRO/MAXSPORT2.png" group-title="EU | EX-YU",HR - MAX SPORT 2 HD
+http://procdn.xyz:80/8AD1579AA715/7D834094513C/306960
 #EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",ARENA SPORT 1 HD (HR)
 http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/17573.m3u8?checkedby
 #EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",ARENA SPORT 2 HD (HR)
