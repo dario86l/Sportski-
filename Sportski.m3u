@@ -9,6 +9,12 @@ http://procdn.xyz:80/8AD1579AA715/7D834094513C/306960
 http://procdn.xyz:80/8AD1579AA715/7D834094513C/74679
 #EXTINF:-1 tvg-id="NOVA TV" tvg-name="HR - NOVA TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="EU | EX-YU",HR - NOVA TV
 http://procdn.xyz:80/8AD1579AA715/7D834094513C/74680
+#EXTINF:-1 tvg-id="29032280" tvg-name="NOVA TV" tvg-logo="https://twobrothers1.com:8443/images/add40080f55a2c74cca0a6b09e7b469e.png" group-title="HRVATSKA / CROATIA",NOVA TV
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/180.ts
+#EXTINF:-1 tvg-id="29032281" tvg-name="NOVA TV HD" tvg-logo="https://twobrothers1.com:8443/images/add40080f55a2c74cca0a6b09e7b469e.png" group-title="HRVATSKA / CROATIA",NOVA TV HD
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/181.ts
+#EXTINF:-1 tvg-id="29032282" tvg-name="NOVA TV HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/105.hr.png" group-title="HRVATSKA / CROATIA",NOVA TV HD (hevc)
+http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/182.ts
 #EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",ARENA SPORT 1 HD (HR)
 http://iptv.iptivihd.com:8000/live/cihanarslan/a11012020z/17573.m3u8?checkedby
 #EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Croatia(95)",ARENA SPORT 2 HD (HR)
@@ -131,12 +137,6 @@ http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/106.ts
 http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/10931.ts
 #EXTINF:-1 tvg-id="290322114" tvg-name="HRT 2 HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/101.hr.png" group-title="HRVATSKA / CROATIA",HRT 2 HD (hevc)
 http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/114.ts
-#EXTINF:-1 tvg-id="29032280" tvg-name="NOVA TV" tvg-logo="https://twobrothers1.com:8443/images/add40080f55a2c74cca0a6b09e7b469e.png" group-title="HRVATSKA / CROATIA",NOVA TV
-http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/80.ts
-#EXTINF:-1 tvg-id="29032281" tvg-name="NOVA TV HD" tvg-logo="https://twobrothers1.com:8443/images/add40080f55a2c74cca0a6b09e7b469e.png" group-title="HRVATSKA / CROATIA",NOVA TV HD
-http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/81.ts
-#EXTINF:-1 tvg-id="29032282" tvg-name="NOVA TV HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/105.hr.png" group-title="HRVATSKA / CROATIA",NOVA TV HD (hevc)
-http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/82.ts
 #EXTINF:-1 tvg-id="29032235539" tvg-name="MAXSport 1 (HR) test" tvg-logo="https://twobrothers1.com:8443/images/06f08ae24a07774b54c9efef6998a3bc.jpg" group-title="SPORT",MAXSport 1 (HR) test
 http://premiux.xyz:8000/live/DarioLebedina/fW9D5adq2f4htDh/35539.ts
 #EXTINF:-1 tvg-id="29032235584" tvg-name="MAXSport 2 (HR) test" tvg-logo="https://twobrothers1.com:8443/images/badac516822567b6228d86be2cfccdd2.jpg" group-title="SPORT",MAXSport 2 (HR) test
