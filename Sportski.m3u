@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="HRT 2" tvg-name="HR- HRT 2" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU",HR- HRT 2
+http://ottbest.net:80/420628543187415/1701107290/74673
+#EXTINF:-1 tvg-id="HRT 2 FHD" tvg-name="HR - HRT 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU",HR - HRT 2 HD
+http://ottbest.net:80/420628543187415/1701107290/74674
 #EXTINF:-1 tvg-id="NOVA TV" tvg-name="HR - NOVA TV HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="EU | EX-YU",HR - NOVA TV HD
 http://ottbest.net:80/420628543187415/1701107290/74679
 #EXTINF:-1 tvg-id="NOVA TV" tvg-name="HR - NOVA TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="EU | EX-YU",HR - NOVA TV
