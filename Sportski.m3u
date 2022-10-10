@@ -1,24 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NOVA TV" tvg-name="HR - NOVA TV HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="EU | EX-YU",HR - NOVA TV HD
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74679
-#EXTINF:-1 tvg-id="NOVA TV" tvg-name="HR - NOVA TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="EU | EX-YU",HR - NOVA TV
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74680
-#EXTINF:-1 tvg-id="Doma TV" tvg-name="HR - DOMA TV HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/DOMATVHD.png" group-title="EU | EX-YU",HR - DOMA TV HD
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74681
-#EXTINF:-1 tvg-id="Doma TV" tvg-name="HR - DOMA TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/DOMATVHD.png" group-title="EU | EX-YU",HR - DOMA TV
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74682
-#EXTINF:-1 tvg-id="RTL" tvg-name="HR- RTL HR" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EX-YU",HR- RTL HR
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74683
-#EXTINF:-1 tvg-id="RTL 2" tvg-name="HR - RTL 2" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EX-YU",HR - RTL 2
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74684
-#EXTINF:-1 tvg-id="HRT 2" tvg-name="HR- HRT 2" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU",HR- HRT 2
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74673
-#EXTINF:-1 tvg-id="HRT 2 FHD" tvg-name="HR - HRT 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU",HR - HRT 2 HD
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74674
+#EXTINF:-1 tvg-id="HRT 1" tvg-name="HR - HRT 1" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU",HR - HRT 1
+http://ottbest.net:80/420628543187415/1701107290/74671
+#EXTINF:-1 tvg-id="HRT 1 FHD" tvg-name="HR - HRT 1 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU",HR - HRT 1 HD
+http://ottbest.net:80/420628543187415/1701107290/74672
 #EXTINF:-1 tvg-id="HRT 2" tvg-name="HR- HRT 2" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU",HR- HRT 2
 http://ottbest.net:80/420628543187415/1701107290/74673
 #EXTINF:-1 tvg-id="HRT 2 FHD" tvg-name="HR - HRT 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU",HR - HRT 2 HD
 http://ottbest.net:80/420628543187415/1701107290/74674
+#EXTINF:-1 tvg-id="HRT 3" tvg-name="HR - HRT 3" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU",HR - HRT 3
+http://ottbest.net:80/420628543187415/1701107290/74675
+#EXTINF:-1 tvg-id="HRT 3 FHD" tvg-name="HR - HRT 3 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU",HR - HRT 3 HD
+http://ottbest.net:80/420628543187415/1701107290/74676
+#EXTINF:-1 tvg-id="HRT 4 FHD" tvg-name="HR - HRT 4" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU",HR - HRT 4
+http://ottbest.net:80/420628543187415/1701107290/74677
+#EXTINF:-1 tvg-id="HRT 4 FHD" tvg-name="HR - HRT 4 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU",HR - HRT 4 HD
+http://ottbest.net:80/420628543187415/1701107290/74678
+#EXTINF:-1 tvg-id="" tvg-name="HR - HRT 5" tvg-logo="http://logo.panel.cx/logo/EXYU/HRT5.png" group-title="EU | EX-YU",HR - HRT 5
+http://ottbest.net:80/420628543187415/1701107290/181618
 #EXTINF:-1 tvg-id="NOVA TV" tvg-name="HR - NOVA TV HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="EU | EX-YU",HR - NOVA TV HD
 http://ottbest.net:80/420628543187415/1701107290/74679
 #EXTINF:-1 tvg-id="NOVA TV" tvg-name="HR - NOVA TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="EU | EX-YU",HR - NOVA TV
@@ -31,83 +29,17 @@ http://ottbest.net:80/420628543187415/1701107290/74682
 http://ottbest.net:80/420628543187415/1701107290/74683
 #EXTINF:-1 tvg-id="RTL 2" tvg-name="HR - RTL 2" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EX-YU",HR - RTL 2
 http://ottbest.net:80/420628543187415/1701107290/74684
-#EXTINF:-1 tvg-id="novasport.rs" tvg-name="EXYU - NOVA SPORT" tvg-logo="http://logo.panel.cx/logo/EXYU/NOVA SPORT.png" group-title="EU | EX-YU",EXYU - NOVA SPORT
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/174903
-#EXTINF:-1 tvg-id="SK HD" tvg-name="EXYU - SPORTKLUB HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORTKLUB HD
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74878
-#EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="EXYU - SPORTKLUB 1 HD (SR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORTKLUB 1 HD (SR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74879
-#EXTINF:-1 tvg-id="sportklub2.rs" tvg-name="EXYU - SPORTKLUB 2 HD (SR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORTKLUB 2 HD (SR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74880
-#EXTINF:-1 tvg-id="sportklub3.rs" tvg-name="EXYU - SPORTKLUB 3 HD (SR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORTKLUB 3 HD (SR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74881
-#EXTINF:-1 tvg-id="SK1 HR SD" tvg-name="EXYU - SPORT KLUB 1(HR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 1(HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74882
-#EXTINF:-1 tvg-id="SK2 FHD" tvg-name="EXYU - SPORT KLUB 2 (HR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 2 (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74883
-#EXTINF:-1 tvg-id="SK3 FHD" tvg-name="EXYU - SPORT KLUB 3 (HR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 3 (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74884
-#EXTINF:-1 tvg-id="Sport Klub 4" tvg-name="EXYU - SPORT KLUB 4 (HR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 4 (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74885
-#EXTINF:-1 tvg-id="Sport Klub 5" tvg-name="EXYU - SPORT KLUB 5 (HR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 5 (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74886
-#EXTINF:-1 tvg-id="Sport Klub 6" tvg-name="EXYU - SPORT KLUB 6 (HR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 6 (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74887
-#EXTINF:-1 tvg-id="Sport Klub 7" tvg-name="EXYU - SPORT KLUB 7 (HR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 7 (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74888
-#EXTINF:-1 tvg-id="Sport Klub 8" tvg-name="EXYU - SPORT KLUB 8 (HR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 8 (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74889
-#EXTINF:-1 tvg-id="Sport Klub 9" tvg-name="EXYU - SPORT KLUB 9 (HR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 9 (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74890
-#EXTINF:-1 tvg-id="Sport Klub 10" tvg-name="EXYU - SPORT KLUB 10 (HR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORT KLUB 10 (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74891
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA PREMIUM 1" tvg-logo="" group-title="EU | EX-YU",EXYU - ARENA PREMIUM 1
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/273118
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA PREMIUM 2" tvg-logo="" group-title="EU | EX-YU",EXYU - ARENA PREMIUM 2
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/273119
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA PREMIUM 3" tvg-logo="" group-title="EU | EX-YU",EXYU - ARENA PREMIUM 3
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/273120
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="EXYU - ARENA SPORT 1 BIH" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/arena_sport_rs_1-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 1 BIH
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74892
-#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="EXYU - ARENA SPORT 1 HD (SR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/arena_sport_rs_1-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 1 HD (SR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74893
-#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="EXYU - ARENA SPORT 2 HD (SR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/arena_sport_rs_2-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 2 HD (SR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74894
-#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="EXYU - ARENA SPORT 3 HD (SR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/arena_sport_rs_3-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 3 HD (SR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74895
-#EXTINF:-1 tvg-id="arenasport4.rs" tvg-name="EXYU - ARENA SPORT 4 HD (SR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/arena_sport_rs_4-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 4 HD (SR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74896
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 5 HD (SR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/arena_sport_rs_5-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 5 HD (SR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/267472
-#EXTINF:-1 tvg-id="Arena Sport 1 HR FHD" tvg-name="EXYU - ARENA SPORT 1 HD (HR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/arena_sport_rs_1-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 1 HD (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74897
-#EXTINF:-1 tvg-id="Arena Sport 2 HR FHD" tvg-name="EXYU - ARENA SPORT 2 HD (HR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/arena_sport_rs_2-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 2 HD (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74898
-#EXTINF:-1 tvg-id="Arena Sport 3 HR FHD" tvg-name="EXYU - ARENA SPORT 3 HD (HR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/arena_sport_rs_3-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 3 HD (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74899
-#EXTINF:-1 tvg-id="Arena Sport 4 HR FHD" tvg-name="EXYU - ARENA SPORT 4 HD (HR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/arena_sport_rs_4-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 4 HD (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74900
-#EXTINF:-1 tvg-id="Arena Sport 5 HR FHD" tvg-name="EXYU - ARENA SPORT 5 HD (HR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/arena_sport_rs_5-1.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 5 HD (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74901
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 6 HD (HR)" tvg-logo="http://logo.panel.cx/logo/EXYU/a-6.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 6 HD (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/264022
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 7 HD (HR)" tvg-logo="http://logo.panel.cx/logo/EXYU/a.7.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 7 HD (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/264023
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 8 HD (HR)" tvg-logo="http://logo.panel.cx/logo/EXYU/a.8.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 8 HD (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/264024
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 9 HD (HR)" tvg-logo="http://logo.panel.cx/logo/EXYU/a.9.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 9 HD (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/264025
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 10 HD (HR)" tvg-logo="http://logo.panel.cx/logo/EXYU/a.10.png" group-title="EU | EX-YU",EXYU - ARENA SPORT 10 HD (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/264026
-#EXTINF:-1 tvg-id="Eurosport 1 FHD" tvg-name="EXYU - EUROSPORT 1 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/EUROSPORT-1.png" group-title="EU | EX-YU",EXYU - EUROSPORT 1 HD
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/77987
-#EXTINF:-1 tvg-id="Eurosport 2 FHD" tvg-name="EXYU - EUROSPORT 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/EUROSPORT-1.png" group-title="EU | EX-YU",EXYU - EUROSPORT 2 HD
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/77988
-#EXTINF:-1 tvg-id="Sportska TV" tvg-name="EXYU - SPORTSKA TV (HR)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTSKATV-1.png" group-title="EU | EX-YU",EXYU - SPORTSKA TV (HR)
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/74875
-#EXTINF:-1 tvg-id="Fight Channel" tvg-name="EXYU - FIGHT NETWORK" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/FIGHTNETWORK-1.png" group-title="EU | EX-YU",EXYU - FIGHT NETWORK
-http://procdn.xyz:80/8AD1579AA715/7D834094513C/77989
-#EXTINF:-1 tvg-id="FightBox" tvg-name="EXYU - FIGHTBOX" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/FIGHTBOXHD-1.png" group-title="EU | EX-YU",EXYU - FIGHTBOX
+#EXTINF:-1 tvg-id="RTL Crime" tvg-name="HR - RTL CRIME" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EX-YU",HR - RTL CRIME
+http://ottbest.net:80/420628543187415/1701107290/74686
+#EXTINF:-1 tvg-id="RTL Living" tvg-name="HR - RTL LIVING" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EX-YU",HR - RTL LIVING
+http://ottbest.net:80/420628543187415/1701107290/74687
+#EXTINF:-1 tvg-id="rtlpassion.hr" tvg-name="HR - RTL PASSION" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EX-YU",HR - RTL PASSION
+#EXTINF:-1 tvg-id="" tvg-name="EXYU - MOJA TV (BH)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/MOJATV-1.png" group-title="EU | EX-YU",EXYU - MOJA TV (BH)
+http://ottbest.net:80/420628543187415/1701107290/74876
+#EXTINF:-1 tvg-id="citytv.ba" tvg-name="EXYU - CITY TV (BH)" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/CITYTV-1.png" group-title="EU | EX-YU",EXYU - CITY TV (BH)
+http://ottbest.net:80/420628543187415/1701107290/74877
+#EXTINF:-1 tvg-id="" tvg-name="##### |EXYU| SPORT #####" tvg-logo=" http://logo.panel.cx/logo/FLAGS/flag_exyu.png" group-title="EU | EX-YU",##### |EXYU| SPORT #####
+http://ottbest.net:80/420628543187415/1701107290/271569
 #EXTINF:-1 tvg-id="novasport.rs" tvg-name="EXYU - NOVA SPORT" tvg-logo="http://logo.panel.cx/logo/EXYU/NOVA SPORT.png" group-title="EU | EX-YU",EXYU - NOVA SPORT
 http://ottbest.net:80/420628543187415/1701107290/174903
 #EXTINF:-1 tvg-id="SK HD" tvg-name="EXYU - SPORTKLUB HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",EXYU - SPORTKLUB HD
@@ -185,4 +117,616 @@ http://ottbest.net:80/420628543187415/1701107290/74875
 #EXTINF:-1 tvg-id="Fight Channel" tvg-name="EXYU - FIGHT NETWORK" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/FIGHTNETWORK-1.png" group-title="EU | EX-YU",EXYU - FIGHT NETWORK
 http://ottbest.net:80/420628543187415/1701107290/77989
 #EXTINF:-1 tvg-id="FightBox" tvg-name="EXYU - FIGHTBOX" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/FIGHTBOXHD-1.png" group-title="EU | EX-YU",EXYU - FIGHTBOX
-http://ottbest.net:80/420628543187415/1701107290/77990
+
+#EXTINF:-1 tvg-id="29032235539" tvg-name="MAXSport 1 (HR) test" tvg-logo="https://twobrothers1.com:8443/images/06f08ae24a07774b54c9efef6998a3bc.jpg" group-title="SPORT",MAXSport 1 (HR) test
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/35539.ts
+#EXTINF:-1 tvg-id="29032235584" tvg-name="MAXSport 2 (HR) test" tvg-logo="https://twobrothers1.com:8443/images/badac516822567b6228d86be2cfccdd2.jpg" group-title="SPORT",MAXSport 2 (HR) test
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/35584.ts
+#EXTINF:-1 tvg-id="29032214724" tvg-name="ARENA SPORT 1 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/d688f5acd73482c8a37a6f2539ab59f3.png" group-title="SPORT",ARENA SPORT 1 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14724.ts
+#EXTINF:-1 tvg-id="29032214725" tvg-name="ARENA SPORT 2 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/3a3c76ee1ecef4276acca60dc9836737.png" group-title="SPORT",ARENA SPORT 2 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14725.ts
+#EXTINF:-1 tvg-id="29032214726" tvg-name="ARENA SPORT 3 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/601505c4e7e80142a837b499a45b6288.png" group-title="SPORT",ARENA SPORT 3 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14726.ts
+#EXTINF:-1 tvg-id="29032214727" tvg-name="ARENA SPORT 4 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/0238bb3eec318cac95b91fd90ad1f277.png" group-title="SPORT",ARENA SPORT 4 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14727.ts
+#EXTINF:-1 tvg-id="29032214728" tvg-name="ARENA SPORT 5 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/6ee09d41f44136d27e25cc5202d8e2f7.png" group-title="SPORT",ARENA SPORT 5 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14728.ts
+#EXTINF:-1 tvg-id="29032214729" tvg-name="ARENA SPORT 6 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/6c6741dd2f52bcc1fe87062613766374.png" group-title="SPORT",ARENA SPORT 6 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14729.ts
+#EXTINF:-1 tvg-id="29032226887" tvg-name="ARENA SPORT 7 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/ea2ae7f73c7fc1286572cd87fa2343d1.png" group-title="SPORT",ARENA SPORT 7 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/26887.ts
+#EXTINF:-1 tvg-id="29032226888" tvg-name="ARENA SPORT 8 HD (HR)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="SPORT",ARENA SPORT 8 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/26888.ts
+#EXTINF:-1 tvg-id="29032226889" tvg-name="ARENA SPORT 9 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/ea2ae7f73c7fc1286572cd87fa2343d1.png" group-title="SPORT",ARENA SPORT 9 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/26889.ts
+#EXTINF:-1 tvg-id="29032226890" tvg-name="ARENA SPORT 10 HD (HR)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="SPORT",ARENA SPORT 10 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/26890.ts
+#EXTINF:-1 tvg-id="29032214735" tvg-name="ARENA SPORT 1 (SR)" tvg-logo="https://twobrothers1.com:8443/images/63575056df3a388ee7aa4da8054ba2fc.jpg" group-title="SPORT",ARENA SPORT 1 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14735.ts
+#EXTINF:-1 tvg-id="29032214736" tvg-name="ARENA SPORT 2 (SR)" tvg-logo="https://twobrothers1.com:8443/images/55c60ec55f1690e0048912a6d28cea6f.jpg" group-title="SPORT",ARENA SPORT 2 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14736.ts
+#EXTINF:-1 tvg-id="29032214812" tvg-name="ARENA SPORT 3 (SR)" tvg-logo="https://twobrothers1.com:8443/images/e1bf99dacb6b735bea4383ac66805377.jpg" group-title="SPORT",ARENA SPORT 3 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14812.ts
+#EXTINF:-1 tvg-id="29032214734" tvg-name="ARENA SPORT 4 (SR)" tvg-logo="http://logo.smart-iptvpro.info/212.sr.jpg" group-title="SPORT",ARENA SPORT 4 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14734.ts
+#EXTINF:-1 tvg-id="29032214737" tvg-name="ARENA SPORT 5 (SR)" tvg-logo="https://twobrothers1.com:8443/images/e7ed553ec0c44728e2be6c3d5c7b44ab.jpg" group-title="SPORT",ARENA SPORT 5 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14737.ts
+#EXTINF:-1 tvg-id="29032232168" tvg-name="ARENA SPORT 1 Premium (SR)" tvg-logo="https://twobrothers1.com:8443/images/17c9722ec1eabd743979fcfa26f3d009.jpg" group-title="SPORT",ARENA SPORT 1 Premium (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32168.ts
+#EXTINF:-1 tvg-id="29032232169" tvg-name="ARENA SPORT 2 Premium (SR)" tvg-logo="https://twobrothers1.com:8443/images/9a5f6620aabf94c4062d2e5941c46ccd.jpg" group-title="SPORT",ARENA SPORT 2 Premium (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32169.ts
+#EXTINF:-1 tvg-id="29032232170" tvg-name="ARENA SPORT 3 Premium (SR)" tvg-logo="https://twobrothers1.com:8443/images/8d419a44abe6caf1e19345f0fee9e9d9.jpg" group-title="SPORT",ARENA SPORT 3 Premium (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32170.ts
+#EXTINF:-1 tvg-id="29032226967" tvg-name="ARENA SPORT 1 HD (SR)" tvg-logo="http://logos-logo.ddns.net/logos/arenasport1-drukahehip.png" group-title="SPORT",ARENA SPORT 1 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/26967.ts
+#EXTINF:-1 tvg-id="29032226968" tvg-name="ARENA SPORT 2 HD (SR)" tvg-logo="http://logos-logo.ddns.net/logos/arenasport2-drukahehip.png" group-title="SPORT",ARENA SPORT 2 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/26968.ts
+#EXTINF:-1 tvg-id="29032226969" tvg-name="ARENA SPORT 3 HD (SR)" tvg-logo="http://logos-logo.ddns.net/logos/arenasport3-drukahehip.png" group-title="SPORT",ARENA SPORT 3 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/26969.ts
+#EXTINF:-1 tvg-id="29032226970" tvg-name="ARENA SPORT 4 HD (SR)" tvg-logo="http://logos-logo.ddns.net/logos/arenasport4-drukahehip.png" group-title="SPORT",ARENA SPORT 4 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/26970.ts
+#EXTINF:-1 tvg-id="29032233071" tvg-name="ARENA SPORT 5 HD (SR)" tvg-logo="https://twobrothers1.com:8443/images/88d83074076ebff8564ff7daf5acd24b.png" group-title="SPORT",ARENA SPORT 5 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/33071.ts
+#EXTINF:-1 tvg-id="29032231937" tvg-name="ARENA SPORT 6 HD (SR)" tvg-logo="" group-title="SPORT",ARENA SPORT 6 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/31937.ts
+#EXTINF:-1 tvg-id="29032231938" tvg-name="ARENA SPORT 7 HD (SR) " tvg-logo="" group-title="SPORT",ARENA SPORT 7 HD (SR) 
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/31938.ts
+#EXTINF:-1 tvg-id="29032231939" tvg-name="ARENA SPORT 8 HD (SR) " tvg-logo="" group-title="SPORT",ARENA SPORT 8 HD (SR) 
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/31939.ts
+#EXTINF:-1 tvg-id="29032231940" tvg-name="ARENA SPORT 1x2 (SR)" tvg-logo="" group-title="SPORT",ARENA SPORT 1x2 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/31940.ts
+#EXTINF:-1 tvg-id="29032226892" tvg-name="ARENA FIGHT (SR)" tvg-logo="https://twobrothers1.com:8443/images/361ccf779217440f9c46e0e5689be6a8.png" group-title="SPORT",ARENA FIGHT (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/26892.ts
+#EXTINF:-1 tvg-id="29032223977" tvg-name="ARENA ESPORT" tvg-logo="https://twobrothers1.com:8443/images/e382d71808c3c4b73c71d6aa8bd377a0.jpg" group-title="SPORT",ARENA ESPORT
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23977.ts
+#EXTINF:-1 tvg-id="29032223472" tvg-name="ARENA SPORT 1 (BIH)" tvg-logo="https://twobrothers1.com:8443/images/49bec9ee22b4c26cca440d28a67f1022.png" group-title="SPORT",ARENA SPORT 1 (BIH)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23472.ts
+#EXTINF:-1 tvg-id="29032234362" tvg-name="ARENA SPORT 1 (SLO) TEST" tvg-logo="https://twobrothers1.com:8443/images/d688f5acd73482c8a37a6f2539ab59f3.png" group-title="SPORT",ARENA SPORT 1 (SLO) TEST
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/34362.ts
+#EXTINF:-1 tvg-id="29032234363" tvg-name="ARENA SPORT 2 (SLO) TEST" tvg-logo="https://twobrothers1.com:8443/images/3a3c76ee1ecef4276acca60dc9836737.png" group-title="SPORT",ARENA SPORT 2 (SLO) TEST
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/34363.ts
+#EXTINF:-1 tvg-id="29032220028" tvg-name="NOVA SPORT (SR)" tvg-logo="https://twobrothers1.com:8443/images/71f49add9d94042b8ef7247b0ac29461.png" group-title="SPORT",NOVA SPORT (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20028.ts
+#EXTINF:-1 tvg-id="290322102" tvg-name="SPORT KLUB FIGHT" tvg-logo="https://twobrothers1.com:8443/images/538b82de5171870806b5fe1860318674.png" group-title="SPORT",SPORT KLUB FIGHT
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/202.ts
+#EXTINF:-1 tvg-id="29032259" tvg-name="SPORT KLUB GOLF" tvg-logo="http://logo.smart-iptvpro.info/247.hr.png" group-title="SPORT",SPORT KLUB GOLF
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/159.ts
+#EXTINF:-1 tvg-id="29032260" tvg-name="SPORT KLUB HD" tvg-logo="https://twobrothers1.com:8443/images/3692ae1165612be543ad37ebed0dd4fa.png" group-title="SPORT",SPORT KLUB HD
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/160.ts
+#EXTINF:-1 tvg-id="29032261" tvg-name="SPORT KLUB 1 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/0ea0a3d7dad1f17b17202a72f9a4f443.png" group-title="SPORT",SPORT KLUB 1 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/161.ts
+#EXTINF:-1 tvg-id="29032262" tvg-name="SPORT KLUB 2 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/87bb85473d22cedf6eb80b511dca5cf2.png" group-title="SPORT",SPORT KLUB 2 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/162.ts
+#EXTINF:-1 tvg-id="29032263" tvg-name="SPORT KLUB 3 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/3f339ed99ed394b7daff79fbbf3de578.png" group-title="SPORT",SPORT KLUB 3 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/163.ts
+#EXTINF:-1 tvg-id="29032264" tvg-name="SPORT KLUB 4 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/c0149eee335c3ce8ca009af10582a7b5.png" group-title="SPORT",SPORT KLUB 4 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/164.ts
+#EXTINF:-1 tvg-id="29032265" tvg-name="SPORT KLUB 5 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/f6f5ddc962ebf87e0e36a8b23ef6b6d3.png" group-title="SPORT",SPORT KLUB 5 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/165.ts
+#EXTINF:-1 tvg-id="29032266" tvg-name="SPORT KLUB 6 HD (HR)" tvg-logo="https://twobrothers1.com:8443/images/06da94bdedd6c6e5ceb06c00ea6dbcb5.png" group-title="SPORT",SPORT KLUB 6 HD (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/166.ts
+#EXTINF:-1 tvg-id="29032235059" tvg-name="SK 4K (TEST) (hevc)" tvg-logo="https://twobrothers1.com:8443/images/84e9260587453ff7f9dd571c0a5b373c.png" group-title="SPORT",SK 4K (TEST) (hevc)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/35059.ts
+#EXTINF:-1 tvg-id="29032267" tvg-name="SPORT KLUB HD (SR)" tvg-logo="https://twobrothers1.com:8443/images/3692ae1165612be543ad37ebed0dd4fa.png" group-title="SPORT",SPORT KLUB HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/167.ts
+#EXTINF:-1 tvg-id="29032268" tvg-name="SPORT KLUB 1 HD (SR)" tvg-logo="https://twobrothers1.com:8443/images/0ea0a3d7dad1f17b17202a72f9a4f443.png" group-title="SPORT",SPORT KLUB 1 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/168.ts
+#EXTINF:-1 tvg-id="29032269" tvg-name="SPORT KLUB 2 HD (SR)" tvg-logo="https://twobrothers1.com:8443/images/87bb85473d22cedf6eb80b511dca5cf2.png" group-title="SPORT",SPORT KLUB 2 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/169.ts
+#EXTINF:-1 tvg-id="29032270" tvg-name="SPORT KLUB 3 HD (SR)" tvg-logo="https://twobrothers1.com:8443/images/3f339ed99ed394b7daff79fbbf3de578.png" group-title="SPORT",SPORT KLUB 3 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/170.ts
+#EXTINF:-1 tvg-id="29032271" tvg-name="SPORT KLUB 4 (SR)" tvg-logo="http://logo.smart-iptvpro.info/241.hr.png" group-title="SPORT",SPORT KLUB 4 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/171.ts
+#EXTINF:-1 tvg-id="29032272" tvg-name="SPORT KLUB 5 (SR)" tvg-logo="https://twobrothers1.com:8443/images/f6f5ddc962ebf87e0e36a8b23ef6b6d3.png" group-title="SPORT",SPORT KLUB 5 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/172.ts
+#EXTINF:-1 tvg-id="29032230721" tvg-name="SPORT KLUB 6 (SR)" tvg-logo="http://logo.smart-iptvpro.info/243.sr.png" group-title="SPORT",SPORT KLUB 6 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/203.ts
+#EXTINF:-1 tvg-id="29032230445" tvg-name="SPORT KLUB 7 (SR)" tvg-logo="https://twobrothers1.com:8443/images/d87637c8861e311f851555f6e0d1af3c.png" group-title="SPORT",SPORT KLUB 7 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/204.ts
+#EXTINF:-1 tvg-id="29032230722" tvg-name="SPORT KLUB 8 (SR)" tvg-logo="https://twobrothers1.com:8443/images/c1197bb649ce0a7f872ed9fe9547f145.png" group-title="SPORT",SPORT KLUB 8 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/205.ts
+#EXTINF:-1 tvg-id="29032230723" tvg-name="SPORT KLUB 9 (SR)" tvg-logo="https://twobrothers1.com:8443/images/e9671f9a6a84a47526d8157c6a35e9ae.png" group-title="SPORT",SPORT KLUB 9 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/206.ts
+#EXTINF:-1 tvg-id="29032230724" tvg-name="SPORT KLUB 10 (SR)" tvg-logo="https://twobrothers1.com:8443/images/1007df19c0691abbd3481f22cf3d406f.png" group-title="SPORT",SPORT KLUB 10 (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/207.ts
+#EXTINF:-1 tvg-id="29032234358" tvg-name="SPORT KLUB 1 (SLO) TEST" tvg-logo="https://twobrothers1.com:8443/images/0ea0a3d7dad1f17b17202a72f9a4f443.png" group-title="SPORT",SPORT KLUB 1 (SLO) TEST
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/34358.ts
+#EXTINF:-1 tvg-id="29032234359" tvg-name="SPORT KLUB 2 (SLO) TEST" tvg-logo="https://twobrothers1.com:8443/images/87bb85473d22cedf6eb80b511dca5cf2.png" group-title="SPORT",SPORT KLUB 2 (SLO) TEST
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/34359.ts
+#EXTINF:-1 tvg-id="29032234360" tvg-name="SPORT KLUB 3 (SLO) TEST" tvg-logo="https://twobrothers1.com:8443/images/3f339ed99ed394b7daff79fbbf3de578.png" group-title="SPORT",SPORT KLUB 3 (SLO) TEST
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/34360.ts
+#EXTINF:-1 tvg-id="29032214744" tvg-name="SPORTSKA TV (HR)" tvg-logo="http://logo.smart-iptvpro.info/248.hr.png" group-title="SPORT",SPORTSKA TV (HR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14744.ts
+#EXTINF:-1 tvg-id="29032213918" tvg-name="CITY TV" tvg-logo="https://twobrothers1.com:8443/images/ec39b1aad393e02aa972afa800bcfeb1.png" group-title="SPORT",CITY TV
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/13918.ts
+#EXTINF:-1 tvg-id="29032223498" tvg-name="GP1 (KREATOR TV)" tvg-logo="https://twobrothers1.com:8443/images/d3a633fa1fcc81394873b0ff4ef3bb5d.png" group-title="SPORT",GP1 (KREATOR TV)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23498.ts
+#EXTINF:-1 tvg-id="29032214730" tvg-name="MOJA TV PREMIJER LIGA HD (BIH)" tvg-logo="" group-title="SPORT",MOJA TV PREMIJER LIGA HD (BIH)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14730.ts
+#EXTINF:-1 tvg-id="29032246" tvg-name="PARTIZAN TV" tvg-logo="https://twobrothers1.com:8443/images/441e0560a9d61cb786a874a849f2da21.png" group-title="SPORT",PARTIZAN TV
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/46.ts
+#EXTINF:-1 tvg-id="29032258" tvg-name="ZVEZDA TV" tvg-logo="https://twobrothers1.com:8443/images/1733c37697a6b581866f11a8e13b3ee4.png" group-title="SPORT",ZVEZDA TV
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/58.ts
+#EXTINF:-1 tvg-id="29032214792" tvg-name="EUROSPORT 1 HD (SR)" tvg-logo="https://twobrothers1.com:8443/images/d19b245ec140bef02e634f972aba9d07.png" group-title="SPORT",EUROSPORT 1 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14792.ts
+#EXTINF:-1 tvg-id="29032214794" tvg-name="EUROSPORT 2 HD (SR)" tvg-logo="https://twobrothers1.com:8443/images/dc981c6b97755ad064ddec93e862f367.png" group-title="SPORT",EUROSPORT 2 HD (SR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14794.ts
+#EXTINF:-1 tvg-id="29032220205" tvg-name="SPORT TV 1 HD (SLO)" tvg-logo="http://logo.smart-iptvpro.info/52.slo.png" group-title="SPORT",SPORT TV 1 HD (SLO)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20205.ts
+#EXTINF:-1 tvg-id="29032220206" tvg-name="SPORT TV 2 HD (SLO)" tvg-logo="http://logo.smart-iptvpro.info/53.slo.png" group-title="SPORT",SPORT TV 2 HD (SLO)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20206.ts
+#EXTINF:-1 tvg-id="29032220207" tvg-name="SPORT TV 3 HD (SLO)" tvg-logo="https://twobrothers1.com:8443/images/5a3e712b079b372ea0fb1a56db6dbbcf.png" group-title="SPORT",SPORT TV 3 HD (SLO)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20207.ts
+#EXTINF:-1 tvg-id="29032232848" tvg-name="Telekom Bundesliga 1 (DE)" tvg-logo="" group-title="SPORT",Telekom Bundesliga 1 (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32848.ts
+#EXTINF:-1 tvg-id="29032232849" tvg-name="Telekom Bundesliga 2 (DE)" tvg-logo="" group-title="SPORT",Telekom Bundesliga 2 (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32849.ts
+#EXTINF:-1 tvg-id="29032232850" tvg-name="Telekom Bundesliga 3 (DE)" tvg-logo="" group-title="SPORT",Telekom Bundesliga 3 (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32850.ts
+#EXTINF:-1 tvg-id="29032232851" tvg-name="Telekom Bundesliga 4 (DE)" tvg-logo="" group-title="SPORT",Telekom Bundesliga 4 (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32851.ts
+#EXTINF:-1 tvg-id="29032232852" tvg-name="Telekom Bundesliga 5 (DE)" tvg-logo="" group-title="SPORT",Telekom Bundesliga 5 (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32852.ts
+#EXTINF:-1 tvg-id="29032224849" tvg-name="SPORT1 HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/55428ca65d529b1cf67623cb017c53af5de49d89.png" group-title="SPORT",SPORT1 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/24849.ts
+#EXTINF:-1 tvg-id="29032231111" tvg-name="Sport 1+ HD (DE)" tvg-logo="https://twobrothers1.com:8443/images/350c1d1d8c99bee296d85c138211730d.png" group-title="SPORT",Sport 1+ HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/31111.ts
+#EXTINF:-1 tvg-id="29032231110" tvg-name="SPORT DIGITAL (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/36207a17b0a5760b3977dcf130e53ce30f09c594.png" group-title="SPORT",SPORT DIGITAL (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/31110.ts
+#EXTINF:-1 tvg-id="29032213742" tvg-name="DAZN BAR 1 HD (DE)" tvg-logo="" group-title="SPORT",DAZN BAR 1 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/13742.ts
+#EXTINF:-1 tvg-id="29032213743" tvg-name="DAZN BAR 2 HD (DE)" tvg-logo="" group-title="SPORT",DAZN BAR 2 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/13743.ts
+#EXTINF:-1 tvg-id="29032214762" tvg-name="DAZN SPORT 1 HD (DE)" tvg-logo="" group-title="SPORT",DAZN SPORT 1 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14762.ts
+#EXTINF:-1 tvg-id="29032214761" tvg-name="DAZN SPORT 2 HD (DE)" tvg-logo="" group-title="SPORT",DAZN SPORT 2 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14761.ts
+#EXTINF:-1 tvg-id="29032214790" tvg-name="EUROSPORT 1 HD (DE)" tvg-logo="https://twobrothers1.com:8443/images/1300b99ee0de2b14a2aa7fd2a4ac05c9.png" group-title="SPORT",EUROSPORT 1 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14790.ts
+#EXTINF:-1 tvg-id="29032214788" tvg-name="EUROSPORT 2 HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/fbc41d77249de69bb35febcff1bb74dd87a3b031.png" group-title="SPORT",EUROSPORT 2 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14788.ts
+#EXTINF:-1 tvg-id="29032214787" tvg-name="EUROSPORT 2 HD L2 (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/fbc41d77249de69bb35febcff1bb74dd87a3b031.png" group-title="SPORT",EUROSPORT 2 HD L2 (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14787.ts
+#EXTINF:-1 tvg-id="29032221115" tvg-name="AUTO MOTOR SPORT HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/8ffbb0a95849b6c7af04aeaea5c2e1680c6cb0ad.png" group-title="SPORT",AUTO MOTOR SPORT HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/21115.ts
+#EXTINF:-1 tvg-id="29032220759" tvg-name="FC BAYERN HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/55005eca27e8c20bfb41fa842181b50721ac156f.png" group-title="SPORT",FC BAYERN HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20759.ts
+#EXTINF:-1 tvg-id="29032214763" tvg-name="ORF SPORT+ HD (AT)" tvg-logo="" group-title="SPORT",ORF SPORT+ HD (AT)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14763.ts
+#EXTINF:-1 tvg-id="29032222900" tvg-name="MY SPORTS 1 HD (CH)" tvg-logo="https://twobrothers1.com:8443/images/59c7515f15663f70a72d58bfe2676dd0.png" group-title="SPORT",MY SPORTS 1 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/22900.ts
+#EXTINF:-1 tvg-id="29032222901" tvg-name="MY SPORTS 2 HD (CH)" tvg-logo="https://twobrothers1.com:8443/images/ebd89a9f5dba1a7e2c6d88ffbd46d279.png" group-title="SPORT",MY SPORTS 2 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/22901.ts
+#EXTINF:-1 tvg-id="29032223456" tvg-name="MY SPORTS 3 HD (CH)" tvg-logo="https://twobrothers1.com:8443/images/97acc3897ac4fe1e8a05e171aeec60f2.png" group-title="SPORT",MY SPORTS 3 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23456.ts
+#EXTINF:-1 tvg-id="29032223457" tvg-name="MY SPORTS 4 HD (CH)" tvg-logo="https://twobrothers1.com:8443/images/64ad98afcb3b4b9acf493616af67f9c4.png" group-title="SPORT",MY SPORTS 4 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23457.ts
+#EXTINF:-1 tvg-id="29032223458" tvg-name="MY SPORTS 5 HD (CH)" tvg-logo="https://twobrothers1.com:8443/images/14defc9bf87688b1f4b9f8800b72c53e.png" group-title="SPORT",MY SPORTS 5 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23458.ts
+#EXTINF:-1 tvg-id="29032223459" tvg-name="MY SPORTS 6 HD (CH)" tvg-logo="https://twobrothers1.com:8443/images/7d0222424c69dba4fb0cef0e2ee25544.png" group-title="SPORT",MY SPORTS 6 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23459.ts
+#EXTINF:-1 tvg-id="29032223460" tvg-name="MY SPORTS 7 HD (CH)" tvg-logo="https://twobrothers1.com:8443/images/60ad84c1a84cf20eebbbf26729ed8c92.png" group-title="SPORT",MY SPORTS 7 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23460.ts
+#EXTINF:-1 tvg-id="29032223461" tvg-name="MY SPORTS 8 HD (CH)" tvg-logo="https://twobrothers1.com:8443/images/62de861715857e4d1dcc815274f47feb.png" group-title="SPORT",MY SPORTS 8 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23461.ts
+#EXTINF:-1 tvg-id="29032219875" tvg-name="BLUE SPORT 1 HD (CH)" tvg-logo="" group-title="SPORT",BLUE SPORT 1 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/19875.ts
+#EXTINF:-1 tvg-id="29032220768" tvg-name="BLUE SPORT 2 HD (CH)" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/teleclubsport2.png" group-title="SPORT",BLUE SPORT 2 HD (CH)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20768.ts
+#EXTINF:-1 tvg-id="29032220767" tvg-name="BLUE ZOOM (CH)" tvg-logo="https://www.soaktuell.ch/files/nws/previewImages/13874_Unbenannt-1.jpg" group-title="SPORT",BLUE ZOOM (CH)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20767.ts
+#EXTINF:-1 tvg-id="29032232605" tvg-name="AMAZON PRIME VIDEO 1 (FR) test" tvg-logo="" group-title="SPORT",AMAZON PRIME VIDEO 1 (FR) test
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32605.ts
+#EXTINF:-1 tvg-id="29032232606" tvg-name="AMAZON PRIME VIDEO 2 (FR) test" tvg-logo="" group-title="SPORT",AMAZON PRIME VIDEO 2 (FR) test
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32606.ts
+#EXTINF:-1 tvg-id="29032232607" tvg-name="AMAZON PRIME VIDEO 3 (FR) test" tvg-logo="" group-title="SPORT",AMAZON PRIME VIDEO 3 (FR) test
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32607.ts
+#EXTINF:-1 tvg-id="29032232608" tvg-name="AMAZON PRIME VIDEO 4 (FR) test" tvg-logo="" group-title="SPORT",AMAZON PRIME VIDEO 4 (FR) test
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32608.ts
+#EXTINF:-1 tvg-id="29032232609" tvg-name="AMAZON PRIME VIDEO 5 (FR) test" tvg-logo="" group-title="SPORT",AMAZON PRIME VIDEO 5 (FR) test
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32609.ts
+#EXTINF:-1 tvg-id="29032232610" tvg-name="AMAZON PRIME VIDEO 6 (FR) test" tvg-logo="" group-title="SPORT",AMAZON PRIME VIDEO 6 (FR) test
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32610.ts
+#EXTINF:-1 tvg-id="29032232611" tvg-name="AMAZON PRIME VIDEO 7 (FR) test" tvg-logo="" group-title="SPORT",AMAZON PRIME VIDEO 7 (FR) test
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32611.ts
+#EXTINF:-1 tvg-id="29032232612" tvg-name="AMAZON PRIME VIDEO 8 (FR) test" tvg-logo="" group-title="SPORT",AMAZON PRIME VIDEO 8 (FR) test
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32612.ts
+#EXTINF:-1 tvg-id="29032225464" tvg-name="FOOT+24 HD (FR)" tvg-logo="" group-title="SPORT",FOOT+24 HD (FR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25464.ts
+#EXTINF:-1 tvg-id="29032225465" tvg-name="EQUIDIA LIVE HD (FR)" tvg-logo="https://twobrothers1.com:8443/images/c261e98765e9492c21ad377643c0bc6a.png" group-title="SPORT",EQUIDIA LIVE HD (FR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25465.ts
+#EXTINF:-1 tvg-id="29032225455" tvg-name="RMC DECOUVERTE (FR)" tvg-logo="https://twobrothers1.com:8443/images/ab6b89574be9b3941b8c1e4829d250e2.png" group-title="SPORT",RMC DECOUVERTE (FR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25455.ts
+#EXTINF:-1 tvg-id="290322109" tvg-name="BEIN SPORTS 1 HD (FR)" tvg-logo="http://logo.smart-iptvpro.info/101.fr.png" group-title="SPORT",BEIN SPORTS 1 HD (FR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/109.ts
+#EXTINF:-1 tvg-id="29032214770" tvg-name="BEIN SPORTS 2 HD (FR)" tvg-logo="http://logo.smart-iptvpro.info/102.fr.png" group-title="SPORT",BEIN SPORTS 2 HD (FR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14770.ts
+#EXTINF:-1 tvg-id="29032214771" tvg-name="BEIN SPORTS 3 HD (FR)" tvg-logo="https://twobrothers1.com:8443/images/1c21d0dedfaf786f1538fb85e8317204.png" group-title="SPORT",BEIN SPORTS 3 HD (FR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14771.ts
+#EXTINF:-1 tvg-id="29032220363" tvg-name="BEIN SPORTS HABER HD (TR)" tvg-logo="https://twobrothers1.com:8443/images/c7a4f4cb6178169c45e033f0e5b4e152.png" group-title="SPORT",BEIN SPORTS HABER HD (TR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20363.ts
+#EXTINF:-1 tvg-id="29032220359" tvg-name="BEIN SPORTS 1 HD (TR)" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/193/Image/beinsports1-hd-70x46.png" group-title="SPORT",BEIN SPORTS 1 HD (TR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20359.ts
+#EXTINF:-1 tvg-id="29032220360" tvg-name="BEIN SPORTS 2 HD (TR)" tvg-logo="https://twobrothers1.com:8443/images/9fea805b1b62bdf9379c1f9609896b9d.png" group-title="SPORT",BEIN SPORTS 2 HD (TR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20360.ts
+#EXTINF:-1 tvg-id="29032220361" tvg-name="BEIN SPORTS 3 HD (TR)" tvg-logo="https://twobrothers1.com:8443/images/47ec96c242934a073d522b2640f85c8e.png" group-title="SPORT",BEIN SPORTS 3 HD (TR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20361.ts
+#EXTINF:-1 tvg-id="29032220362" tvg-name="BEIN SPORTS 4 HD (TR)" tvg-logo="https://twobrothers1.com:8443/images/d373dc4defd3af58cb6dff53d73eba18.png" group-title="SPORT",BEIN SPORTS 4 HD (TR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20362.ts
+#EXTINF:-1 tvg-id="29032214772" tvg-name="BEIN SPORTS 1 HD (AR)" tvg-logo="https://twobrothers1.com:8443/images/27cb32fe67691f6d913545795b767a28.png" group-title="SPORT",BEIN SPORTS 1 HD (AR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14772.ts
+#EXTINF:-1 tvg-id="29032214773" tvg-name="BEIN SPORTS 2 HD (AR)" tvg-logo="https://twobrothers1.com:8443/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="SPORT",BEIN SPORTS 2 HD (AR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14773.ts
+#EXTINF:-1 tvg-id="29032214774" tvg-name="BEIN SPORTS 3 HD (AR)" tvg-logo="https://twobrothers1.com:8443/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="SPORT",BEIN SPORTS 3 HD (AR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14774.ts
+#EXTINF:-1 tvg-id="29032214775" tvg-name="BEIN SPORTS 4 HD (AR)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="SPORT",BEIN SPORTS 4 HD (AR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14775.ts
+#EXTINF:-1 tvg-id="29032214776" tvg-name="BEIN SPORTS 5 HD (AR)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="SPORT",BEIN SPORTS 5 HD (AR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14776.ts
+#EXTINF:-1 tvg-id="29032214777" tvg-name="BEIN SPORTS 6 HD (AR)" tvg-logo="https://twobrothers1.com:8443/images/1d2c6e6d8d24c0744011b1496dbb7217.png" group-title="SPORT",BEIN SPORTS 6 HD (AR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14777.ts
+#EXTINF:-1 tvg-id="29032214778" tvg-name="BEIN SPORTS 7 HD (AR)" tvg-logo="https://twobrothers1.com:8443/images/ddb7f6a3dd0bacbad276dc0fef236c00.png" group-title="SPORT",BEIN SPORTS 7 HD (AR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14778.ts
+#EXTINF:-1 tvg-id="29032214779" tvg-name="BEIN SPORTS NEWS HD (AR)" tvg-logo="" group-title="SPORT",BEIN SPORTS NEWS HD (AR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14779.ts
+#EXTINF:-1 tvg-id="29032214780" tvg-name="BEIN SPORTS 1 PREMIUM (AR)" tvg-logo="https://twobrothers1.com:8443/images/664e959174fde9763f371b9988aa84e0.png" group-title="SPORT",BEIN SPORTS 1 PREMIUM (AR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14780.ts
+#EXTINF:-1 tvg-id="29032214781" tvg-name="BEIN SPORTS 2 PREMIUM HD (AR)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="SPORT",BEIN SPORTS 2 PREMIUM HD (AR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14781.ts
+#EXTINF:-1 tvg-id="29032214932" tvg-name="BEIN SPORTS 3 PREMIUM HD (AR)" tvg-logo="https://twobrothers1.com:8443/images/f53b6f0fc4152edfd40cbb095438f73d.png" group-title="SPORT",BEIN SPORTS 3 PREMIUM HD (AR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14932.ts
+#EXTINF:-1 tvg-id="29032219670" tvg-name="BT SPORT 1 HD (UK)" tvg-logo="https://twobrothers1.com:8443/images/0bddd2fb03c14a5eac8a43b1fa62e44b.png" group-title="SPORT",BT SPORT 1 HD (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/19670.ts
+#EXTINF:-1 tvg-id="29032214782" tvg-name="BT SPORT 2 HD (UK)" tvg-logo="https://twobrothers1.com:8443/images/379ba3a953bc060f8e78e9d6c637727a.png" group-title="SPORT",BT SPORT 2 HD (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14782.ts
+#EXTINF:-1 tvg-id="29032219671" tvg-name="BT SPORT 3 HD (UK)" tvg-logo="https://twobrothers1.com:8443/images/676fa222781fa3bbd06b6afa9f5e1e00.png" group-title="SPORT",BT SPORT 3 HD (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/19671.ts
+#EXTINF:-1 tvg-id="29032220716" tvg-name="BT Sport ESPN (UK)" tvg-logo="http://logo.smart-iptvpro.info/107.uk.png" group-title="SPORT",BT Sport ESPN (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20716.ts
+#EXTINF:-1 tvg-id="29032214791" tvg-name="EUROSPORT 1 HD (UK)" tvg-logo="https://twobrothers1.com:8443/images/86df415f9ec10147dc18767592511a98.png" group-title="SPORT",EUROSPORT 1 HD (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14791.ts
+#EXTINF:-1 tvg-id="29032214789" tvg-name="EUROSPORT 2 HD (UK)" tvg-logo="https://twobrothers1.com:8443/images/bda8a486b9a3ee3504802d82c3d37bf2.png" group-title="SPORT",EUROSPORT 2 HD (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14789.ts
+#EXTINF:-1 tvg-id="29032222132" tvg-name="PREMIER SPORTS 1 HD (UK)" tvg-logo="https://twobrothers1.com:8443/images/202e96dd07f97e48cc26c0699948ced4.png" group-title="SPORT",PREMIER SPORTS 1 HD (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/22132.ts
+#EXTINF:-1 tvg-id="29032222133" tvg-name="PREMIER SPORTS 2 HD (UK)" tvg-logo="https://twobrothers1.com:8443/images/f366b0a2d6332e6ee8473b288c34f5f9.png" group-title="SPORT",PREMIER SPORTS 2 HD (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/22133.ts
+#EXTINF:-1 tvg-id="29032224864" tvg-name="RACING TV (UK)" tvg-logo="https://twobrothers1.com:8443/images/348fea2258347fca059516605a2e8b96.png" group-title="SPORT",RACING TV (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/24864.ts
+#EXTINF:-1 tvg-id="29032230940" tvg-name="MUTV (UK)" tvg-logo="https://twobrothers1.com:8443/images/e698c5e95ba1263bb6951d01897d9b64.png" group-title="SPORT",MUTV (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/30940.ts
+#EXTINF:-1 tvg-id="29032230941" tvg-name="LFC TV (UK)" tvg-logo="https://twobrothers1.com:8443/images/a172b6452ba7f67c09d04dac4bc6d208.png" group-title="SPORT",LFC TV (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/30941.ts
+#EXTINF:-1 tvg-id="29032235871" tvg-name="Altitude Sports (US)" tvg-logo="https://twobrothers1.com:8443/images/e72ef9ac3e3edf64ececff93c2310905.jpg" group-title="SPORT",Altitude Sports (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/35871.ts
+#EXTINF:-1 tvg-id="29032220717" tvg-name="ESPN News (US)" tvg-logo="https://twobrothers1.com:8443/images/08f91fc37cac2c29a593bf2cb3f12a55.png" group-title="SPORT",ESPN News (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20717.ts
+#EXTINF:-1 tvg-id="29032220718" tvg-name="ESPN (US)" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/espn.us.png" group-title="SPORT",ESPN (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20718.ts
+#EXTINF:-1 tvg-id="29032220719" tvg-name="ESPN 2 (US)" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/espn2.us.png" group-title="SPORT",ESPN 2 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20719.ts
+#EXTINF:-1 tvg-id="29032220720" tvg-name="ESPN U (US)" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/espn.u.us.png" group-title="SPORT",ESPN U (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20720.ts
+#EXTINF:-1 tvg-id="29032220731" tvg-name="NFL NETWORK HD (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/National_Football_League_logo.svg" group-title="SPORT",NFL NETWORK HD (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20731.ts
+#EXTINF:-1 tvg-id="29032220732" tvg-name="NFL RED ZONE HD (US)" tvg-logo="https://twobrothers1.com:8443/images/b85c45c05838ddfe26dd77a1be3b50a8.jpg" group-title="SPORT",NFL RED ZONE HD (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20732.ts
+#EXTINF:-1 tvg-id="29032220137" tvg-name="NBA TV HD (US)" tvg-logo="https://twobrothers1.com:8443/images/5634cdf64b854566631243cc267d4b6f.jpg" group-title="SPORT",NBA TV HD (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20137.ts
+#EXTINF:-1 tvg-id="29032226186" tvg-name="TENNIS CHANNEL (US)" tvg-logo="https://twobrothers1.com:8443/images/0d65a406fe52dadd805d3fcfe3e078b6.png" group-title="SPORT",TENNIS CHANNEL (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/26186.ts
+#EXTINF:-1 tvg-id="29032226194" tvg-name="RED BULL TV FHD (US)" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="SPORT",RED BULL TV FHD (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/26194.ts
+#EXTINF:-1 tvg-id="29032217130" tvg-name="SPORT 1 (HU)" tvg-logo="http://tv.animare.hu/i/o/38.png" group-title="SPORT",SPORT 1 (HU)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/17130.ts
+#EXTINF:-1 tvg-id="29032217131" tvg-name="SPORT 2 (HU)" tvg-logo="http://tv.animare.hu/i/o/60.png" group-title="SPORT",SPORT 2 (HU)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/17131.ts
+#EXTINF:-1 tvg-id="290322112" tvg-name="M4 SPORT HD (HU)" tvg-logo="https://media.port.hu/images/001/106/100x100/098.jpg" group-title="SPORT",M4 SPORT HD (HU)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/112.ts
+#EXTINF:-1 tvg-id="29032220075" tvg-name="DIGI SPORT 1 (HU)" tvg-logo="https://media.port.hu/images/001/106/100x100/014.jpg" group-title="SPORT",DIGI SPORT 1 (HU)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20075.ts
+#EXTINF:-1 tvg-id="29032217124" tvg-name="DIGI SPORT 2 HD (HU)" tvg-logo="http://tv.animare.hu/i/o/145.png" group-title="SPORT",DIGI SPORT 2 HD (HU)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/17124.ts
+#EXTINF:-1 tvg-id="29032217125" tvg-name="DIGI SPORT 3 HD (HU)" tvg-logo="http://tv.animare.hu/i/o/171.png" group-title="SPORT",DIGI SPORT 3 HD (HU)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/17125.ts
+#EXTINF:-1 tvg-id="29032214783" tvg-name="DIGI SPORT 1 HD (RO)" tvg-logo="" group-title="SPORT",DIGI SPORT 1 HD (RO)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14783.ts
+#EXTINF:-1 tvg-id="29032214784" tvg-name="DIGI SPORT 2 HD (RO)" tvg-logo="" group-title="SPORT",DIGI SPORT 2 HD (RO)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14784.ts
+#EXTINF:-1 tvg-id="29032214786" tvg-name="DIGI SPORT 3 HD (RO)" tvg-logo="" group-title="SPORT",DIGI SPORT 3 HD (RO)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14786.ts
+#EXTINF:-1 tvg-id="29032214785" tvg-name="DIGI SPORT 4 HD (RO)" tvg-logo="" group-title="SPORT",DIGI SPORT 4 HD (RO)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14785.ts
+#EXTINF:-1 tvg-id="29032232853" tvg-name="Telekom Sport 1 HD (RO)" tvg-logo="" group-title="SPORT",Telekom Sport 1 HD (RO)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32853.ts
+#EXTINF:-1 tvg-id="29032232854" tvg-name="Telekom Sport 2 HD (RO)" tvg-logo="" group-title="SPORT",Telekom Sport 2 HD (RO)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32854.ts
+#EXTINF:-1 tvg-id="29032232855" tvg-name="Telekom Sport 3 HD (RO)" tvg-logo="" group-title="SPORT",Telekom Sport 3 HD (RO)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32855.ts
+#EXTINF:-1 tvg-id="29032232856" tvg-name="Telekom Sport 4 HD (RO)" tvg-logo="" group-title="SPORT",Telekom Sport 4 HD (RO)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/32856.ts
+#EXTINF:-1 tvg-id="29032214793" tvg-name="EUROSPORT 1 (FR)" tvg-logo="https://twobrothers1.com:8443/images/17e33bc6100d897523ab5e04d06bc6f4.png" group-title="SPORT",EUROSPORT 1 (FR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14793.ts
+#EXTINF:-1 tvg-id="29032219883" tvg-name="RMC SPORT 1 HD (FR)" tvg-logo="https://twobrothers1.com:8443/images/9dede7283606e7c2fa4c3e0cf744348f.png" group-title="SPORT",RMC SPORT 1 HD (FR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/19883.ts
+#EXTINF:-1 tvg-id="29032219884" tvg-name="RMC SPORT 2 HD (FR)" tvg-logo="http://logo.smart-iptvpro.info/106.fr.png" group-title="SPORT",RMC SPORT 2 HD (FR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/19884.ts
+#EXTINF:-1 tvg-id="29032220976" tvg-name="RMC SPORT 3 HD (FR)" tvg-logo="https://www.zerodensity.tv/wp-content/uploads/2018/06/rmc-sport-reality-engine-zero-density-1.jpg" group-title="SPORT",RMC SPORT 3 HD (FR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20976.ts
+#EXTINF:-1 tvg-id="29032220977" tvg-name="RMC SPORT 4 HD (FR)" tvg-logo="https://twobrothers1.com:8443/images/55dd17a2f21fadad9222d1497015be83.jpg" group-title="SPORT",RMC SPORT 4 HD (FR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20977.ts
+#EXTINF:-1 tvg-id="29032214827" tvg-name="L’EQUIPE HD (FR)" tvg-logo="http://logo.smart-iptvpro.info/158.fr.png" group-title="SPORT",L’EQUIPE HD (FR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14827.ts
+#EXTINF:-1 tvg-id="29032214828" tvg-name="INFOSPORT+ (FR)" tvg-logo="https://twobrothers1.com:8443/images/5d0f278067d63046c1775dc17d38414c.png" group-title="SPORT",INFOSPORT+ (FR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14828.ts
+#EXTINF:-1 tvg-id="29032214830" tvg-name="CANAL+ SPORT (FR)" tvg-logo="https://twobrothers1.com:8443/images/c600a3df8caa9ef41397a583c4b0e257.png" group-title="SPORT",CANAL+ SPORT (FR)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14830.ts
+#EXTINF:-1 tvg-id="29032220569" tvg-name="TVA SPORTS FR (CA)" tvg-logo="http://logo.smart-iptvpro.info/100.ca.png" group-title="SPORT",TVA SPORTS FR (CA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20569.ts
+#EXTINF:-1 tvg-id="29032220570" tvg-name="TVA SPORTS 2 (CA)" tvg-logo="https://twobrothers1.com:8443/images/c8391459822f66e91db16f98d75890ef.png" group-title="SPORT",TVA SPORTS 2 (CA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20570.ts
+#EXTINF:-1 tvg-id="290322116" tvg-name="TSN 1 (CA)" tvg-logo="https://twobrothers1.com:8443/images/2d52e01adc96e89e30dd3b527379a95e.png" group-title="SPORT",TSN 1 (CA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/116.ts
+#EXTINF:-1 tvg-id="29032223434" tvg-name="TSN 2 (CA)" tvg-logo="https://twobrothers1.com:8443/images/00dea9e3b54933eb9c6e3f1ce5efe6aa.png" group-title="SPORT",TSN 2 (CA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23434.ts
+#EXTINF:-1 tvg-id="290322117" tvg-name="TSN 3 (CA)" tvg-logo="https://twobrothers1.com:8443/images/6eeed1de9967ee56153583af20c0b276.png" group-title="SPORT",TSN 3 (CA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/117.ts
+#EXTINF:-1 tvg-id="290322118" tvg-name="TSN 4 (CA)" tvg-logo="https://twobrothers1.com:8443/images/518de9bdaec101052d0c7b6d40ca4f20.png" group-title="SPORT",TSN 4 (CA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/118.ts
+#EXTINF:-1 tvg-id="29032223437" tvg-name="TSN 5 (CA)" tvg-logo="https://twobrothers1.com:8443/images/c896180348ff03f510a971a91ad70965.png" group-title="SPORT",TSN 5 (CA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23437.ts
+#EXTINF:-1 tvg-id="29032223426" tvg-name="SPORTSNET 360 (CA)" tvg-logo="https://twobrothers1.com:8443/images/09e6560d93e74e5e7757e95af07c336c.png" group-title="SPORT",SPORTSNET 360 (CA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23426.ts
+#EXTINF:-1 tvg-id="29032223427" tvg-name="SPORTSNET EAST (CA)" tvg-logo="https://twobrothers1.com:8443/images/68a9ed890b0a48a8240542180ae8cd86.png" group-title="SPORT",SPORTSNET EAST (CA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23427.ts
+#EXTINF:-1 tvg-id="29032223428" tvg-name="SPORTSNET ONE (CA)" tvg-logo="https://twobrothers1.com:8443/images/2ec0714bea33c1bfa438e2fd08764da0.png" group-title="SPORT",SPORTSNET ONE (CA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23428.ts
+#EXTINF:-1 tvg-id="29032223429" tvg-name="SPORTSNET ONTARIO (CA)" tvg-logo="https://twobrothers1.com:8443/images/94d72d301ce9b3ef53cc7fb93b37a32a.png" group-title="SPORT",SPORTSNET ONTARIO (CA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23429.ts
+#EXTINF:-1 tvg-id="29032223431" tvg-name="SPORTSNET WEST (CA)" tvg-logo="https://twobrothers1.com:8443/images/4849d8647f9be685028af98647fbebfb.png" group-title="SPORT",SPORTSNET WEST (CA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23431.ts
+#EXTINF:-1 tvg-id="29032223432" tvg-name="SPORTSNET WORLD (CA)" tvg-logo="https://twobrothers1.com:8443/images/9a5daad4dae6bb9baf557d433bd45e31.png" group-title="SPORT",SPORTSNET WORLD (CA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/23432.ts
+#EXTINF:-1 tvg-id="29032233309" tvg-name="SPORT TV+ (PT)" tvg-logo="https://twobrothers1.com:8443/images/abd182fd2f9b35e720adb640ce185437.png" group-title="SPORT",SPORT TV+ (PT)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/33309.ts
+#EXTINF:-1 tvg-id="29032214798" tvg-name="SPORT TV 1 (PT)" tvg-logo="https://twobrothers1.com:8443/images/1107c1fdff2425001e56e2a9819fe8cd.png" group-title="SPORT",SPORT TV 1 (PT)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14798.ts
+#EXTINF:-1 tvg-id="29032214799" tvg-name="SPORT TV 2 (PT)" tvg-logo="https://www.nos.pt/particulares/Style Library/GuiaTv_CanaisLogos/SPTV_2HD.png" group-title="SPORT",SPORT TV 2 (PT)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14799.ts
+#EXTINF:-1 tvg-id="29032214800" tvg-name="SPORT TV 3 (PT)" tvg-logo="https://twobrothers1.com:8443/images/d8b10dce4a1c4c5a60b29e27d06d6e4f.png" group-title="SPORT",SPORT TV 3 (PT)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14800.ts
+#EXTINF:-1 tvg-id="29032214801" tvg-name="SPORT TV 4 (PT)" tvg-logo="https://twobrothers1.com:8443/images/362343368188b8127cb1703c8510efe5.png" group-title="SPORT",SPORT TV 4 (PT)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14801.ts
+#EXTINF:-1 tvg-id="29032214802" tvg-name="SPORT TV 5 (PT)" tvg-logo="https://twobrothers1.com:8443/images/a3187e16e68ccc5c1c42640e1315553b.png" group-title="SPORT",SPORT TV 5 (PT)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14802.ts
+#EXTINF:-1 tvg-id="29032233308" tvg-name="SPORT TV NBA (PT)" tvg-logo="" group-title="SPORT",SPORT TV NBA (PT)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/33308.ts
+#EXTINF:-1 tvg-id="29032233313" tvg-name="EUROSPORT 1 FHD (PT)" tvg-logo="https://twobrothers1.com:8443/images/f0f498ba9bac594b208b8f9e556d2d17.png" group-title="SPORT",EUROSPORT 1 FHD (PT)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/33313.ts
+#EXTINF:-1 tvg-id="29032233314" tvg-name="EUROSPORT 2 (PT)" tvg-logo="https://twobrothers1.com:8443/images/92191c471e8cbd5c9bafbe238380ff6e.png" group-title="SPORT",EUROSPORT 2 (PT)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/33314.ts
+#EXTINF:-1 tvg-id="29032233311" tvg-name="ELEVEN SPORTS 1 HD (PT)" tvg-logo="https://twobrothers1.com:8443/images/90e2bf51266675db5ff366867fa9b974.png" group-title="SPORT",ELEVEN SPORTS 1 HD (PT)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/33311.ts
+#EXTINF:-1 tvg-id="29032233312" tvg-name="SPORTING TV (PT)" tvg-logo="https://twobrothers1.com:8443/images/5c5b6fbaf21a2d26065834367cf1d445.png" group-title="SPORT",SPORTING TV (PT)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/33312.ts
+#EXTINF:-1 tvg-id="29032233316" tvg-name="FUEL TV (PT)" tvg-logo="https://twobrothers1.com:8443/images/adb78ccad557851a3a0cf459e0c45814.png" group-title="SPORT",FUEL TV (PT)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/33316.ts
+#EXTINF:-1 tvg-id="29032233315" tvg-name="MOTORVISION (PT)" tvg-logo="https://twobrothers1.com:8443/images/37596f1c17b1f758e0dd1de93f96e6da.png" group-title="SPORT",MOTORVISION (PT)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/33315.ts
+#EXTINF:-1 tvg-id="29032217673" tvg-name="SUPER TENNIS (ITA)" tvg-logo="https://twobrothers1.com:8443/images/f31ee4af99d0280016510acb83a5daa1.png" group-title="SPORT",SUPER TENNIS (ITA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/17673.ts
+#EXTINF:-1 tvg-id="29032220289" tvg-name="INTER TV (ITA)" tvg-logo="https://twobrothers1.com:8443/images/66f93da46329f5d1932dce80e4f86e23.png" group-title="SPORT",INTER TV (ITA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20289.ts
+#EXTINF:-1 tvg-id="29032214946" tvg-name="C MORE FOTBOLL HD (SW)" tvg-logo="https://twobrothers1.com:8443/images/a9eae24bf7b9dfa3d927b12812a93c47.png" group-title="SPORT",C MORE FOTBOLL HD (SW)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14946.ts
+#EXTINF:-1 tvg-id="29032214947" tvg-name="C MORE HOCKEY HD (SW)" tvg-logo="https://twobrothers1.com:8443/images/ff897db8d1dafbbae4b129c393a312eb.png" group-title="SPORT",C MORE HOCKEY HD (SW)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14947.ts
+#EXTINF:-1 tvg-id="29032216763" tvg-name="C MORE LIVE (SW)" tvg-logo="http://logo.smart-iptvpro.info/102.sw.png" group-title="SPORT",C MORE LIVE (SW)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/16763.ts
+#EXTINF:-1 tvg-id="29032214954" tvg-name="EUROSPORT 1 HD (SW)" tvg-logo="http://logo.smart-iptvpro.info/103.sw.png" group-title="SPORT",EUROSPORT 1 HD (SW)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14954.ts
+#EXTINF:-1 tvg-id="29032214956" tvg-name="EUROSPORT 2 HD (SW)" tvg-logo="" group-title="SPORT",EUROSPORT 2 HD (SW)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14956.ts
+#EXTINF:-1 tvg-id="29032214961" tvg-name="VIASAT GOLF HD (SW)" tvg-logo="http://logo.smart-iptvpro.info/108.sw.png" group-title="SPORT",VIASAT GOLF HD (SW)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14961.ts
+#EXTINF:-1 tvg-id="29032214962" tvg-name="VIASAT HOCKEY HD (SW)" tvg-logo="https://twobrothers1.com:8443/images/5a089c007cc682f1d0f4eebf6b21d40f.png" group-title="SPORT",VIASAT HOCKEY HD (SW)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14962.ts
+#EXTINF:-1 tvg-id="29032214963" tvg-name="VIASAT SPORT HD (SW)" tvg-logo="http://logo.smart-iptvpro.info/110.sw.png" group-title="SPORT",VIASAT SPORT HD (SW)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14963.ts
+#EXTINF:-1 tvg-id="29032214964" tvg-name="VIASAT SPORT PREMIUM HD (SW)" tvg-logo="https://twobrothers1.com:8443/images/eec3793469b415571a8e2b81eb3aba07.png" group-title="SPORT",VIASAT SPORT PREMIUM HD (SW)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14964.ts
+#EXTINF:-1 tvg-id="29032214959" tvg-name="TV 3 SPORT HD (DK)" tvg-logo="https://twobrothers1.com:8443/images/94f5e88325f21dfde92599ac2398c3f0.png" group-title="SPORT",TV 3 SPORT HD (DK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14959.ts
+#EXTINF:-1 tvg-id="29032215274" tvg-name="EUROSPORT 1 (NL)" tvg-logo="https://twobrothers1.com:8443/images/38a27d2af197cb69eb28a29a678e943a.png" group-title="SPORT",EUROSPORT 1 (NL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15274.ts
+#EXTINF:-1 tvg-id="29032214796" tvg-name="FOX SPORTS 1" tvg-logo="http://logo.smart-iptvpro.info/102.nl.png" group-title="SPORT",FOX SPORTS 1
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14796.ts
+#EXTINF:-1 tvg-id="29032215268" tvg-name="ESPN 1 (NL)" tvg-logo="http://nomorecable.xyz:80/logo/chn/1308.png" group-title="SPORT",ESPN 1 (NL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15268.ts
+#EXTINF:-1 tvg-id="29032215269" tvg-name="ESPN 2 (NL)" tvg-logo="http://nomorecable.xyz:80/logo/chn/1309.png" group-title="SPORT",ESPN 2 (NL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15269.ts
+#EXTINF:-1 tvg-id="29032215270" tvg-name="ESPN 3 (NL)" tvg-logo="http://nomorecable.xyz:80/logo/chn/1310.png" group-title="SPORT",ESPN 3 (NL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15270.ts
+#EXTINF:-1 tvg-id="29032215271" tvg-name="ESPN 4 (NL)" tvg-logo="http://nomorecable.xyz:80/logo/chn/1311.png" group-title="SPORT",ESPN 4 (NL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15271.ts
+#EXTINF:-1 tvg-id="29032215263" tvg-name="ZIGGO SPORT SELECT (NL)" tvg-logo="https://twobrothers1.com:8443/images/1e9626cb1c2c2bca0b18423c75cb3bbc.png" group-title="SPORT",ZIGGO SPORT SELECT (NL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15263.ts
+#EXTINF:-1 tvg-id="29032215264" tvg-name="ZIGGO SPORT VOETBAL (NL)" tvg-logo="http://logo.smart-iptvpro.info/110.nl.png" group-title="SPORT",ZIGGO SPORT VOETBAL (NL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15264.ts
+#EXTINF:-1 tvg-id="29032215265" tvg-name="ZIGGO SPORT GOLF (NL)" tvg-logo="https://twobrothers1.com:8443/images/2f825abc137cf0e88456e80577819934.png" group-title="SPORT",ZIGGO SPORT GOLF (NL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15265.ts
+#EXTINF:-1 tvg-id="29032215266" tvg-name="ZIGGO SPORT RACING (NL)" tvg-logo="" group-title="SPORT",ZIGGO SPORT RACING (NL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15266.ts
+#EXTINF:-1 tvg-id="29032215267" tvg-name="ZIGGO SPORT TENNIS (NL)" tvg-logo="https://twobrothers1.com:8443/images/e243e7a5937393579681c34d2c26ab79.png" group-title="SPORT",ZIGGO SPORT TENNIS (NL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15267.ts
+#EXTINF:-1 tvg-id="29032220692" tvg-name="MOVISTAR LA LIGA HD (ES)" tvg-logo="https://twobrothers1.com:8443/images/4f11c7bb434d7244a3826e1ff2e49d52.png" group-title="SPORT",MOVISTAR LA LIGA HD (ES)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20692.ts
+#EXTINF:-1 tvg-id="29032220693" tvg-name="MOVISTAR DEPORTES  HD (ES)" tvg-logo="http://logo.smart-iptvpro.info/101.es.png" group-title="SPORT",MOVISTAR DEPORTES  HD (ES)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20693.ts
+#EXTINF:-1 tvg-id="29032220695" tvg-name="MOVISTAR GOLF HD (ES)" tvg-logo="https://twobrothers1.com:8443/images/e33b9410b677d2929175189d01c67a98.png" group-title="SPORT",MOVISTAR GOLF HD (ES)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20695.ts
+#EXTINF:-1 tvg-id="29032220696" tvg-name="DAZN FORMULA 1 HD (ES)" tvg-logo="https://twobrothers1.com:8443/images/98e5275ae8198e89cd30684a0b773f3e.png" group-title="SPORT",DAZN FORMULA 1 HD (ES)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20696.ts
+#EXTINF:-1 tvg-id="29032220697" tvg-name="EUROSPORT 1 HD (ES)" tvg-logo="http://logo.smart-iptvpro.info/104.es.png" group-title="SPORT",EUROSPORT 1 HD (ES)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20697.ts
+#EXTINF:-1 tvg-id="29032220694" tvg-name="BARCA TV HD (ES)" tvg-logo="https://twobrothers1.com:8443/images/f84763101d6e1c106ca8631284a3602d.png" group-title="SPORT",BARCA TV HD (ES)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20694.ts
+#EXTINF:-1 tvg-id="29032220699" tvg-name="REAL MADRID TV (ES)" tvg-logo="https://twobrothers1.com:8443/images/5ca297686c2131feeb8f9780ddaa2013.png" group-title="SPORT",REAL MADRID TV (ES)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20699.ts
+#EXTINF:-1 tvg-id="29032215044" tvg-name="KUTJESA SPORT 1 (AL)" tvg-logo="" group-title="SPORT",KUTJESA SPORT 1 (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15044.ts
+#EXTINF:-1 tvg-id="29032215045" tvg-name="KUJTESA SPORT 2 (AL)" tvg-logo="" group-title="SPORT",KUJTESA SPORT 2 (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15045.ts
+#EXTINF:-1 tvg-id="29032215046" tvg-name="KUTJESA SPORT 3 (AL)" tvg-logo="" group-title="SPORT",KUTJESA SPORT 3 (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15046.ts
+#EXTINF:-1 tvg-id="29032215047" tvg-name="KUTJESA SPORT 4 (AL)" tvg-logo="" group-title="SPORT",KUTJESA SPORT 4 (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15047.ts
+#EXTINF:-1 tvg-id="29032215074" tvg-name="SS KOSOVA 1 HD (AL)" tvg-logo="https://twobrothers1.com:8443/images/f2666eef6cd9d0010f947bb0a78cb91c.png" group-title="SPORT",SS KOSOVA 1 HD (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15074.ts
+#EXTINF:-1 tvg-id="29032215077" tvg-name="SUPER SPORT NEWS HD (AL)" tvg-logo="https://twobrothers1.com:8443/images/c398c03f0f45a6f4fe8406e544bad87c.png" group-title="SPORT",SUPER SPORT NEWS HD (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15077.ts
+#EXTINF:-1 tvg-id="29032215078" tvg-name="SUPER SPORT 2 HD (AL)" tvg-logo="https://twobrothers1.com:8443/images/82427f3784e2a15afa2f4cd3ed7d42e7.png" group-title="SPORT",SUPER SPORT 2 HD (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15078.ts
+#EXTINF:-1 tvg-id="29032215079" tvg-name="SUPER SPORT 3 HD (AL)" tvg-logo="https://mobile-api.tvim.tv/images/channels/120x60px/SS3.png" group-title="SPORT",SUPER SPORT 3 HD (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15079.ts
+#EXTINF:-1 tvg-id="29032215080" tvg-name="SUPER SPORT 4 HD (AL)" tvg-logo="https://twobrothers1.com:8443/images/fb8763401da2c7c6cdb9a4da95349942.png" group-title="SPORT",SUPER SPORT 4 HD (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15080.ts
+#EXTINF:-1 tvg-id="29032215081" tvg-name="SUPER SPORT 5 HD (AL)" tvg-logo="https://mobile-api.tvim.tv/images/channels/120x60px/SS5.png" group-title="SPORT",SUPER SPORT 5 HD (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15081.ts
+#EXTINF:-1 tvg-id="29032214807" tvg-name="SUPERSPORT 1 HD (AL)" tvg-logo="https://twobrothers1.com:8443/images/f2666eef6cd9d0010f947bb0a78cb91c.png" group-title="SPORT",SUPERSPORT 1 HD (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14807.ts
+#EXTINF:-1 tvg-id="29032214808" tvg-name="SUPERSPORT 2 HD (AL)" tvg-logo="https://twobrothers1.com:8443/images/82427f3784e2a15afa2f4cd3ed7d42e7.png" group-title="SPORT",SUPERSPORT 2 HD (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14808.ts
+#EXTINF:-1 tvg-id="29032214809" tvg-name="SUPERSPORT 3 HD (AL)" tvg-logo="https://mobile-api.tvim.tv/images/channels/120x60px/SS3.png" group-title="SPORT",SUPERSPORT 3 HD (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14809.ts
+#EXTINF:-1 tvg-id="29032214810" tvg-name="SUPERSPORT 4 HD (AL)" tvg-logo="https://twobrothers1.com:8443/images/fb8763401da2c7c6cdb9a4da95349942.png" group-title="SPORT",SUPERSPORT 4 HD (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14810.ts
+#EXTINF:-1 tvg-id="29032214811" tvg-name="SUPERSPORT 5 HD (AL)" tvg-logo="https://twobrothers1.com:8443/images/62514dc1b9e3e799ab0469ddf3d01cdb.png" group-title="SPORT",SUPERSPORT 5 HD (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14811.ts
+#EXTINF:-1 tvg-id="29032215097" tvg-name="TRING SPORT 1 HD (AL)" tvg-logo="https://twobrothers1.com:8443/images/93cb1343cc03a9469d5aecdcaa5d60e5.png" group-title="SPORT",TRING SPORT 1 HD (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15097.ts
+#EXTINF:-1 tvg-id="29032215098" tvg-name="TRING SPORT 2 HD (AL)" tvg-logo="https://twobrothers1.com:8443/images/968d0ce27da45fba4ee20c352ba8d922.png" group-title="SPORT",TRING SPORT 2 HD (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15098.ts
+#EXTINF:-1 tvg-id="29032215099" tvg-name="TRING SPORT 3 HD (AL)" tvg-logo="https://www.tring.al/manager/includes/picker/images/sport3-hd.png" group-title="SPORT",TRING SPORT 3 HD (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15099.ts
+#EXTINF:-1 tvg-id="29032215100" tvg-name="TRING SPORT 4 HD (AL)" tvg-logo="https://www.tring.al/manager/includes/picker/images/sport4-hd.png" group-title="SPORT",TRING SPORT 4 HD (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15100.ts
+#EXTINF:-1 tvg-id="29032215101" tvg-name="TRING SPORT NEWS HD (AL)" tvg-logo="https://twobrothers1.com:8443/images/41cd3abeac10eccfe02be94313a6d962.png" group-title="SPORT",TRING SPORT NEWS HD (AL)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/15101.ts
+#EXTINF:-1 tvg-id="" tvg-name="== Sports UFC BOXING WWE ==" tvg-logo="" group-title="SPORT",== Sports UFC BOXING WWE ==
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25795.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 (US)" tvg-logo="" group-title="SPORT",PPV 1 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25811.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2 (US)" tvg-logo="" group-title="SPORT",PPV 2 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25812.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV 3 (US)" tvg-logo="" group-title="SPORT",PPV 3 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25813.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4 (US)" tvg-logo="" group-title="SPORT",PPV 4 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25814.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV 5 (US)" tvg-logo="" group-title="SPORT",PPV 5 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25815.ts
+#EXTINF:-1 tvg-id="29032225816" tvg-name="UFC 24/7 (RU)" tvg-logo="" group-title="SPORT",UFC 24/7 (RU)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25816.ts
+#EXTINF:-1 tvg-id="29032225817" tvg-name="UFC 24/7 (US)" tvg-logo="" group-title="SPORT",UFC 24/7 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25817.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 01 (US)" tvg-logo="https://twobrothers1.com:8443/images/7ac9365ea6053d404f0f586b4ea253a4.png" group-title="SPORT",UFC Fight Pass 01 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25818.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 02 (US)" tvg-logo="https://twobrothers1.com:8443/images/7ac9365ea6053d404f0f586b4ea253a4.png" group-title="SPORT",UFC Fight Pass 02 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25819.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 03 (US)" tvg-logo="https://twobrothers1.com:8443/images/7ac9365ea6053d404f0f586b4ea253a4.png" group-title="SPORT",UFC Fight Pass 03 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25820.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 04 (US)" tvg-logo="https://twobrothers1.com:8443/images/7ac9365ea6053d404f0f586b4ea253a4.png" group-title="SPORT",UFC Fight Pass 04 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25821.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 05 (US)" tvg-logo="https://twobrothers1.com:8443/images/7ac9365ea6053d404f0f586b4ea253a4.png" group-title="SPORT",UFC Fight Pass 05 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25822.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 06 (US)" tvg-logo="https://twobrothers1.com:8443/images/7ac9365ea6053d404f0f586b4ea253a4.png" group-title="SPORT",UFC Fight Pass 06 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25823.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 07 (US)" tvg-logo="https://twobrothers1.com:8443/images/7ac9365ea6053d404f0f586b4ea253a4.png" group-title="SPORT",UFC Fight Pass 07 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25824.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 08 (US)" tvg-logo="https://twobrothers1.com:8443/images/7ac9365ea6053d404f0f586b4ea253a4.png" group-title="SPORT",UFC Fight Pass 08 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25825.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 09 (US)" tvg-logo="https://twobrothers1.com:8443/images/7ac9365ea6053d404f0f586b4ea253a4.png" group-title="SPORT",UFC Fight Pass 09 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25826.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 10 (US)" tvg-logo="https://twobrothers1.com:8443/images/7ac9365ea6053d404f0f586b4ea253a4.png" group-title="SPORT",UFC Fight Pass 10 (US)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/25827.ts
+#EXTINF:-1 tvg-id="29032217871" tvg-name="B LIGA 1 HD (DE)" tvg-logo="https://twobrothers1.com:8443/images/4c5d3578212a159ca47fb545abd74578.png" group-title="SKY SPORT",B LIGA 1 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/17871.ts
+#EXTINF:-1 tvg-id="29032214749" tvg-name="B LIGA 1 HD L2 (DE)" tvg-logo="https://twobrothers1.com:8443/images/4c5d3578212a159ca47fb545abd74578.png" group-title="SKY SPORT",B LIGA 1 HD L2 (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14749.ts
+#EXTINF:-1 tvg-id="29032214750" tvg-name="B LIGA 2 HD (DE)" tvg-logo="https://twobrothers1.com:8443/images/0439a05004e4360806a69c912cfec3bf.png" group-title="SKY SPORT",B LIGA 2 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14750.ts
+#EXTINF:-1 tvg-id="29032214751" tvg-name="B LIGA 3 HD (DE)" tvg-logo="https://twobrothers1.com:8443/images/72268ef59e6ebc75d361a7a29978dd4f.png" group-title="SKY SPORT",B LIGA 3 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14751.ts
+#EXTINF:-1 tvg-id="29032214752" tvg-name="B LIGA 4 HD (DE)" tvg-logo="https://twobrothers1.com:8443/images/31e5e8aa8a12c7c23c04788b203ad793.png" group-title="SKY SPORT",B LIGA 4 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14752.ts
+#EXTINF:-1 tvg-id="29032214753" tvg-name="B LIGA 5 HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/e1b0693d92286bae1481f232ff087a4f0cd3b7e1.png" group-title="SKY SPORT",B LIGA 5 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14753.ts
+#EXTINF:-1 tvg-id="29032214754" tvg-name="B LIGA 6 HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/18b38a657b0333c91513befb793a06e06d5e6f58.png" group-title="SKY SPORT",B LIGA 6 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14754.ts
+#EXTINF:-1 tvg-id="29032218374" tvg-name="B LIGA 7 HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/25af99e420b22dc62986815785d2eac63c9d132b.png" group-title="SKY SPORT",B LIGA 7 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/18374.ts
+#EXTINF:-1 tvg-id="29032218375" tvg-name="B LIGA 8 HD (DE)" tvg-logo="https://twobrothers1.com:8443/images/5a1ad81b1324252a3739a7375a760369.png" group-title="SKY SPORT",B LIGA 8 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/18375.ts
+#EXTINF:-1 tvg-id="29032214755" tvg-name="SKY SPORT 1 HD (DE)" tvg-logo="" group-title="SKY SPORT",SKY SPORT 1 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14755.ts
+#EXTINF:-1 tvg-id="29032214756" tvg-name="SKY SPORT 2 HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/a81a83173f2b76a9167bb872d535645d12ff16c5.png" group-title="SKY SPORT",SKY SPORT 2 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14756.ts
+#EXTINF:-1 tvg-id="29032214757" tvg-name="SKY SPORT 3 HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/1206e226d77c64a66c18676d2a4995ac0d4f528e.png" group-title="SKY SPORT",SKY SPORT 3 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14757.ts
+#EXTINF:-1 tvg-id="29032214758" tvg-name="SKY SPORT 4 HD (DE)" tvg-logo="https://twobrothers1.com:8443/images/f110c4098f66753e6bd614563228a554.png" group-title="SKY SPORT",SKY SPORT 4 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14758.ts
+#EXTINF:-1 tvg-id="29032214759" tvg-name="SKY SPORT 5 HD (DE)" tvg-logo="https://twobrothers1.com:8443/images/25540b182aa7876c4c1bd5583732d114.png" group-title="SKY SPORT",SKY SPORT 5 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14759.ts
+#EXTINF:-1 tvg-id="29032214760" tvg-name="SKY SPORT 6 HD (DE)" tvg-logo="https://twobrothers1.com:8443/images/85274b1bceb41147376d82fc23cec78c.png" group-title="SKY SPORT",SKY SPORT 6 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14760.ts
+#EXTINF:-1 tvg-id="29032214803" tvg-name="SKY SPORTS NEWS (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/73b37ddf8cadce6a5c4a1ebdf70a526c2ae93719.png" group-title="SKY SPORT",SKY SPORTS NEWS (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14803.ts
+#EXTINF:-1 tvg-id="29032214804" tvg-name="SKY SPORT NEWS HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/73b37ddf8cadce6a5c4a1ebdf70a526c2ae93719.png" group-title="SKY SPORT",SKY SPORT NEWS HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14804.ts
+#EXTINF:-1 tvg-id="29032226713" tvg-name="SKY SPORT F1 HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/67d611a4e282db524f86d9424d2ce0921bdca5a3.png" group-title="SKY SPORT",SKY SPORT F1 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/26713.ts
+#EXTINF:-1 tvg-id="29032228329" tvg-name="SKY SPORT F1 HD (DE)" tvg-logo="http://ngiss.t-online.de/sweetprogrammanager/media/67d611a4e282db524f86d9424d2ce0921bdca5a3.png" group-title="SKY SPORT",SKY SPORT F1 HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/28329.ts
+#EXTINF:-1 tvg-id="29032235884" tvg-name="SKY SPORT TOP EVENT (DE) test" tvg-logo="https://twobrothers1.com:8443/images/7216155e3181b584b7adeaadb943fe21.png" group-title="SKY SPORT",SKY SPORT TOP EVENT (DE) test
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/35884.ts
+#EXTINF:-1 tvg-id="29032235885" tvg-name="SKY SPORT TENNIS HD (DE) test" tvg-logo="https://twobrothers1.com:8443/images/b40f78da97ba7885c5dde677ae67291b.png" group-title="SKY SPORT",SKY SPORT TENNIS HD (DE) test
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/35885.ts
+#EXTINF:-1 tvg-id="29032235886" tvg-name="SKY SPORT GOLF HD (DE) test" tvg-logo="https://twobrothers1.com:8443/images/702f795170622cf63807bf7055f1e8f8.png" group-title="SKY SPORT",SKY SPORT GOLF HD (DE) test
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/35886.ts
+#EXTINF:-1 tvg-id="29032235887" tvg-name="SKY SPORTS PREMIER LEAGUE HD (DE) test" tvg-logo="https://twobrothers1.com:8443/images/f81e0933d61ee4861d854b7eb01d3732.png" group-title="SKY SPORT",SKY SPORTS PREMIER LEAGUE HD (DE) test
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/35887.ts
+#EXTINF:-1 tvg-id="29032235888" tvg-name="SKY SPORTS MIX HD (DE) test" tvg-logo="https://twobrothers1.com:8443/images/c4d0b373951bc586109078d2e48b6591.png" group-title="SKY SPORT",SKY SPORTS MIX HD (DE) test
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/35888.ts
+#EXTINF:-1 tvg-id="29032214805" tvg-name="SKY SPORT AUSTRIA HD (DE)" tvg-logo="https://twobrothers1.com:8443/images/9faf03544a9478b0bc05b433c860e0ef.png" group-title="SKY SPORT",SKY SPORT AUSTRIA HD (DE)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/14805.ts
+#EXTINF:-1 tvg-id="29032224855" tvg-name="SKY SPORTS ARENA (UK)" tvg-logo="http://logo.smart-iptvpro.info/186.uk.png" group-title="SKY SPORT",SKY SPORTS ARENA (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/24855.ts
+#EXTINF:-1 tvg-id="29032224856" tvg-name="SKY SPORTS CRICKET (UK)" tvg-logo="https://twobrothers1.com:8443/images/cb7bf03639376aca21d76fa3d641f2e1.png" group-title="SKY SPORT",SKY SPORTS CRICKET (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/24856.ts
+#EXTINF:-1 tvg-id="29032224857" tvg-name="SKY SPORTS FOOTBALL (UK)" tvg-logo="https://twobrothers1.com:8443/images/b85564110a14408e8c36048f45e74376.png" group-title="SKY SPORT",SKY SPORTS FOOTBALL (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/24857.ts
+#EXTINF:-1 tvg-id="29032224858" tvg-name="SKY SPORTS GOLF (UK)" tvg-logo="http://logo.smart-iptvpro.info/182.uk.png" group-title="SKY SPORT",SKY SPORTS GOLF (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/24858.ts
+#EXTINF:-1 tvg-id="29032224859" tvg-name="SKY SPORTS MAIN EVENT HD (UK)" tvg-logo="http://logo.smart-iptvpro.info/183.uk.png" group-title="SKY SPORT",SKY SPORTS MAIN EVENT HD (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/24859.ts
+#EXTINF:-1 tvg-id="29032224860" tvg-name="SKY SPORTS MIX (UK)" tvg-logo="http://logo.smart-iptvpro.info/184.uk.png" group-title="SKY SPORT",SKY SPORTS MIX (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/24860.ts
+#EXTINF:-1 tvg-id="29032224861" tvg-name="SKY SPORTS NEWS (UK)" tvg-logo="https://twobrothers1.com:8443/images/46153a1e80a65a29e9ac431e0989c995.png" group-title="SKY SPORT",SKY SPORTS NEWS (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/24861.ts
+#EXTINF:-1 tvg-id="29032224863" tvg-name="SKY SPORTS PREMIER LEAGUE HD (UK)" tvg-logo="https://twobrothers1.com:8443/images/97ca5f60d6526e892999c071474b285b.png" group-title="SKY SPORT",SKY SPORTS PREMIER LEAGUE HD (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/24863.ts
+#EXTINF:-1 tvg-id="29032220158" tvg-name="SKY SPORTS F1 (UK)" tvg-logo="https://twobrothers1.com:8443/images/cc523d6b874a6948a1f177b8798e11b8.png" group-title="SKY SPORT",SKY SPORTS F1 (UK)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/20158.ts
+#EXTINF:-1 tvg-id="29032217719" tvg-name="SKY MOTO GP HD (ITA)" tvg-logo="https://twobrothers1.com:8443/images/d484b09bd40cff3c939469941c47d02e.png" group-title="SKY SPORT",SKY MOTO GP HD (ITA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/17719.ts
+#EXTINF:-1 tvg-id="29032219882" tvg-name="SKY SPORT 24 HD (ITA)" tvg-logo="https://twobrothers1.com:8443/images/9c259f1a0ed3a61483f5ac81b691e292.png" group-title="SKY SPORT",SKY SPORT 24 HD (ITA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/19882.ts
+#EXTINF:-1 tvg-id="29032219878" tvg-name="SKY SPORT NBA HD (ITA)" tvg-logo="http://logo.smart-iptvpro.info/102.it.png" group-title="SKY SPORT",SKY SPORT NBA HD (ITA)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/19878.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 2 (During Games only)" tvg-logo="https://twobrothers1.com:8443/images/92a8c43af2483b3494af0594425afbfa.png" group-title="SKY SPORT",SKY SPORT AUSTRIA 2 (During Games only)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/35914.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 3 (During Games only)" tvg-logo="https://twobrothers1.com:8443/images/92a8c43af2483b3494af0594425afbfa.png" group-title="SKY SPORT",SKY SPORT AUSTRIA 3 (During Games only)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/35915.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT AUSTRIA 4 (During Games only)" tvg-logo="https://twobrothers1.com:8443/images/92a8c43af2483b3494af0594425afbfa.png" group-title="SKY SPORT",SKY SPORT AUSTRIA 4 (During Games only)
+http://premiux.xyz:8000/live/DarioLebedina/jLa3T5m7cnv5J6E/35916.ts
